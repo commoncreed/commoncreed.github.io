@@ -1,0 +1,4424 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-09T03:08:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Common Creed</title><subtitle>Everyone is unique. Yet we all are same. #Programmer4Life #Gamer4Life 👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️</subtitle><entry><title type="html">75 LeetCode Curated Questions</title><link href="http://localhost:4000/2020/02/22/75-leetcode-curated-questions" rel="alternate" type="text/html" title="75 LeetCode Curated Questions" /><published>2020-02-22T21:14:43+05:30</published><updated>2020-02-22T21:14:43+05:30</updated><id>http://localhost:4000/2020/02/22/75-leetcode-curated-questions</id><content type="html" xml:base="http://localhost:4000/2020/02/22/75-leetcode-curated-questions">&lt;p&gt;&lt;a href=&quot;http://leetcode.com&quot;&gt;LeetCode&lt;/a&gt; is a platform for people with absolutely any level of programming skills to up their game. Utilizing the power of this platform needs some getting used to. Just to make the process even easy for our readers, we have curated a perfect list of programming questions to start with. These questions skim through every topic and difficulty level.&lt;/p&gt;
+
+&lt;h4 id=&quot;arrays&quot;&gt;Arrays&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/two-sum/&quot;&gt;Two Sum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/best-time-to-buy-and-sell-stock/&quot;&gt;Best Time to Buy and Sell Stock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/contains-duplicate/&quot;&gt;Contains Duplicate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/product-of-array-except-self/&quot;&gt;Product of Array Except Self&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/maximum-subarray/&quot;&gt;Maximum Subarray&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/maximum-product-subarray/&quot;&gt;Maximum Product Subarray&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/&quot;&gt;Find Minimum in Rotated Sorted Array&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/search-in-rotated-sorted-array/&quot;&gt;Search in Rotated Sorted Array&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/3sum/&quot;&gt;3Sum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/container-with-most-water/&quot;&gt;Container With Most Water&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;binary&quot;&gt;Binary&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/sum-of-two-integers/&quot;&gt;Sum of Two Integers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/number-of-1-bits/&quot;&gt;Number of 1 Bits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/counting-bits/&quot;&gt;Counting Bits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/missing-number/&quot;&gt;Missing Number&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/reverse-bits/&quot;&gt;Reverse Bits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dynamic-programming&quot;&gt;Dynamic Programming&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/climbing-stairs/&quot;&gt;Climbing Stairs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/coin-change/&quot;&gt;Coin Change&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-increasing-subsequence/&quot;&gt;Longest Increasing Subsequence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-common-subsequence/&quot;&gt;Longest Common Subsequence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/word-break/&quot;&gt;Word Break Problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/combination-sum-iv/&quot;&gt;Combination Sum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/house-robber/&quot;&gt;House Robber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/house-robber-ii/&quot;&gt;House Robber II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/decode-ways/&quot;&gt;Decode Ways&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/unique-paths/&quot;&gt;Unique Paths&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/jump-game/&quot;&gt;Jump Game&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;graph&quot;&gt;Graph&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/clone-graph/&quot;&gt;Clone Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/course-schedule/&quot;&gt;Course Schedule&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/pacific-atlantic-water-flow/&quot;&gt;Pacific Atlantic Water Flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/number-of-islands/&quot;&gt;Number of Islands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-consecutive-sequence/&quot;&gt;Longest Consecutive Sequence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/alien-dictionary/&quot;&gt;Alien Dictionary (Leetcode Premium)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/graph-valid-tree/&quot;&gt;Graph Valid Tree (Leetcode Premium)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/&quot;&gt;Number of Connected Components in an Undirected Graph (Leetcode Premium)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;interval&quot;&gt;Interval&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/insert-interval/&quot;&gt;Insert Interval&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/merge-intervals/&quot;&gt;Merge Intervals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/non-overlapping-intervals/&quot;&gt;Non-overlapping Intervals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/meeting-rooms/&quot;&gt;Meeting Rooms (Leetcode Premium)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/meeting-rooms-ii/&quot;&gt;Meeting Rooms II (Leetcode Premium)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;linked-list&quot;&gt;Linked List&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/reverse-linked-list/&quot;&gt;Reverse a Linked List&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/linked-list-cycle/&quot;&gt;Detect Cycle in a Linked List&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/merge-two-sorted-lists/&quot;&gt;Merge Two Sorted Lists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/merge-k-sorted-lists/&quot;&gt;Merge K Sorted Lists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/remove-nth-node-from-end-of-list/&quot;&gt;Remove Nth Node From End Of List&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/reorder-list/&quot;&gt;Reorder List&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;matrix&quot;&gt;Matrix&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/set-matrix-zeroes/&quot;&gt;Set Matrix Zeroes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/spiral-matrix/&quot;&gt;Spiral Matrix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/rotate-image/&quot;&gt;Rotate Image&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/word-search/&quot;&gt;Word Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;string&quot;&gt;String&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-substring-without-repeating-characters/&quot;&gt;Longest Substring Without Repeating Characters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-repeating-character-replacement/&quot;&gt;Longest Repeating Character Replacement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/minimum-window-substring/&quot;&gt;Minimum Window Substring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/valid-anagram/&quot;&gt;Valid Anagram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/group-anagrams/&quot;&gt;Group Anagrams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/valid-parentheses/&quot;&gt;Valid Parentheses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/valid-palindrome/&quot;&gt;Valid Palindrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-palindromic-substring/&quot;&gt;Longest Palindromic Substring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/palindromic-substrings/&quot;&gt;Palindromic Substrings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/encode-and-decode-strings/&quot;&gt;Encode and Decode Strings (Leetcode Premium)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tree&quot;&gt;Tree&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/maximum-depth-of-binary-tree/&quot;&gt;Maximum Depth of Binary Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/same-tree/&quot;&gt;Same Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/invert-binary-tree/&quot;&gt;Invert/Flip Binary Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/binary-tree-maximum-path-sum/&quot;&gt;Binary Tree Maximum Path Sum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/binary-tree-level-order-traversal/&quot;&gt;Binary Tree Level Order Traversal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/serialize-and-deserialize-binary-tree/&quot;&gt;Serialize and Deserialize Binary Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/subtree-of-another-tree/&quot;&gt;Subtree of Another Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/&quot;&gt;Construct Binary Tree from Preorder and Inorder Traversal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/validate-binary-search-tree/&quot;&gt;Validate Binary Search Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/kth-smallest-element-in-a-bst/&quot;&gt;Kth Smallest Element in a BST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/&quot;&gt;Lowest Common Ancestor of BST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/implement-trie-prefix-tree/&quot;&gt;Implement Trie (Prefix Tree)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/add-and-search-word-data-structure-design/&quot;&gt;Add and Search Word&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/word-search-ii/&quot;&gt;Word Search II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;heap&quot;&gt;Heap&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/merge-k-sorted-lists/&quot;&gt;Merge K Sorted Lists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com/problems/top-k-frequent-elements/&quot;&gt;Top K Frequent Elements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Find Median from Data Stream&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope these questions add a spark to the programming skills upgrade journey you are on.&lt;/p&gt;</content><author><name>admin</name></author><summary type="html">LeetCode is a platform for people with absolutely any level of programming skills to up their game. Utilizing the power of this platform needs some getting used to. Just to make the process even easy for our readers, we have curated a perfect list of programming questions to start with. These questions skim through every topic and difficulty level.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2020/02/22/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-02-22T15:01:31+05:30</published><updated>2020-02-22T15:01:31+05:30</updated><id>http://localhost:4000/2020/02/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2020/02/22/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Bayern vs Chelsea | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/bayern-vs-chelsea-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="Bayern vs Chelsea | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:53:41+05:30</published><updated>2020-02-17T19:53:41+05:30</updated><id>http://localhost:4000/2020/02/17/bayern-vs-chelsea-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/bayern-vs-chelsea-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Bayern vs Chelsea&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20&lt;br /&gt;
+Stadium : Allianz Arena&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:01.160,0:00:09.000
+ [Music]
+ 0:00:06.470,0:00:11.460
+ hello and a warm welcome on what is a
+ 0:00:09.000,0:00:14.370
+ glorious night for football perfect
+ 0:00:11.460,0:00:16.289
+ playing conditions I'm Jerry Gray joined
+ 0:00:14.370,0:00:18.330
+ here on the commentary box as always by
+ 0:00:16.289,0:00:20.580
+ Lee Dixon and what we have to look
+ 0:00:18.330,0:00:23.789
+ forward to is the second leg of this
+ 0:00:20.580,0:00:26.880
+ Champions League semi-final it is Bayern
+ 0:00:23.789,0:00:29.160
+ Munich taking on Chelsea thanks Derek
+ 0:00:26.880,0:00:30.510
+ yes a good first leg wasn't it plenty of
+ 0:00:29.160,0:00:32.640
+ action both ends
+ 0:00:30.510,0:00:34.860
+ nothing to choose between the two teams
+ 0:00:32.640,0:00:37.079
+ we got some goals will we get some more
+ 0:00:34.860,0:00:40.520
+ tonight pretty sure we will hopefully
+ 0:00:37.079,0:00:40.520
+ we're not disappointed
+ 0:00:41.240,0:00:47.750
+ [Applause]
+ 0:00:44.310,0:00:48.610
+ [Music]
+ 0:00:47.750,0:01:17.080
+ [Applause]
+ 0:00:48.610,0:01:20.100
+ [Music]
+ 0:01:17.080,0:01:23.740
+ [Applause]
+ 0:01:20.100,0:01:26.800
+ for buyer Manuel Neuer begins him go
+ 0:01:23.740,0:01:28.630
+ David Alaba plays with Jerome Boateng in
+ 0:01:26.800,0:01:32.760
+ central defense and leading the attack
+ 0:01:28.630,0:01:41.960
+ today is the lethal Robert Lewandowski
+ 0:01:32.760,0:01:44.150
+ [Applause]
+ 0:01:41.960,0:01:45.740
+ I'm interested ly and finding out what
+ 0:01:44.150,0:01:47.510
+ was uppermost in your mind when you
+ 0:01:45.740,0:01:49.430
+ faced by and as a player well I think
+ 0:01:47.510,0:01:52.010
+ it's very stereotypical to look at
+ 0:01:49.430,0:01:54.050
+ German footballers and say they're very
+ 0:01:52.010,0:01:55.670
+ machine-like when they play but whenever
+ 0:01:54.050,0:01:57.800
+ I played against Bayern Munich it was
+ 0:01:55.670,0:02:00.200
+ always a case of looking at the team and
+ 0:01:57.800,0:02:02.210
+ finding no weaknesses there's no areas
+ 0:02:00.200,0:02:04.990
+ of the team where you can exploit and I
+ 0:02:02.210,0:02:08.270
+ think that's their biggest strength
+ 0:02:04.990,0:02:10.880
+ here's the lineup for Chelsea Kephart
+ 0:02:08.270,0:02:13.130
+ is given the green light in goal andreas
+ 0:02:10.880,0:02:15.260
+ Kristensen plays with Antonio rüdiger
+ 0:02:13.130,0:02:17.989
+ and central defence and Gotha Conte
+ 0:02:15.260,0:02:20.360
+ stands alongside Giorgio in the centre
+ 0:02:17.989,0:02:22.459
+ of midfield and the idea is to have just
+ 0:02:20.360,0:02:25.810
+ the one striker up there trying to pose
+ 0:02:22.459,0:02:25.810
+ problems for the opposition
+ 0:02:31.990,0:02:34.920
+ here's Thiago
+ 0:02:35.710,0:02:40.850
+ while many have remarked upon the hosts
+ 0:02:38.870,0:02:42.830
+ and the preferred style which is one of
+ 0:02:40.850,0:02:44.900
+ high pressing and trying to get the ball
+ 0:02:42.830,0:02:47.000
+ back quickly Lee do you expect to see
+ 0:02:44.900,0:02:48.590
+ more of that in this game yes deric high
+ 0:02:47.000,0:02:50.450
+ pressing is their game but there is a
+ 0:02:48.590,0:02:52.760
+ risk attached to it if the opposition
+ 0:02:50.450,0:02:57.910
+ break through that press early on you
+ 0:02:52.760,0:02:57.910
+ can be left vulnerable at the back Munna
+ 0:03:01.950,0:03:05.030
+ fixing opportunity
+ 0:03:05.590,0:03:12.090
+ Munna and Pavan on the
+ 0:03:08.710,0:03:12.090
+ don't ski in the thick of things
+ 0:03:15.349,0:03:18.370
+ go ahead Scott
+ 0:03:21.420,0:03:28.550
+ passing it around with a flaw
+ 0:03:24.920,0:03:30.410
+ it's a goal kick are the mere mention of
+ 0:03:28.550,0:03:32.569
+ the name of Albert levin dosti can have
+ 0:03:30.410,0:03:34.640
+ the effect of striking fear in opposing
+ 0:03:32.569,0:03:36.470
+ defenses Lee what do you expect to see
+ 0:03:34.640,0:03:38.360
+ from him today he's on the ball all the
+ 0:03:36.470,0:03:40.700
+ time and his ability on the ball is
+ 0:03:38.360,0:03:42.290
+ absolutely phenomenal he doesn't pass
+ 0:03:40.700,0:03:44.360
+ the ball away he lends it to his
+ 0:03:42.290,0:03:48.910
+ teammates because he wants it back very
+ 0:03:44.360,0:03:51.080
+ difficult to get the ball off him Thiago
+ 0:03:48.910,0:03:54.160
+ that's enough people
+ 0:03:51.080,0:03:57.060
+ Serg can happily
+ 0:03:54.160,0:03:57.060
+ that's a no toy
+ 0:04:01.530,0:04:06.440
+ here's coverage beautifully disguise
+ 0:04:04.200,0:04:09.050
+ ball
+ 0:04:06.440,0:04:11.440
+ typical of William to be wasteful as he
+ 0:04:09.050,0:04:11.440
+ was then
+ 0:04:14.440,0:04:18.100
+ Serge Canaveral
+ 0:04:20.340,0:04:25.310
+ Tiago now she's gonna do from this
+ 0:04:22.800,0:04:25.310
+ position
+ 0:04:28.189,0:04:31.310
+ it was always going to be in a tight
+ 0:04:29.449,0:04:33.319
+ game but now all of a sudden one team
+ 0:04:31.310,0:04:37.129
+ ahead things have got to change on both
+ 0:04:33.319,0:04:38.660
+ sides well let's see that strike again
+ 0:04:37.129,0:04:42.289
+ first time you
+ 0:04:38.660,0:04:44.089
+ very difficult to strike a ball
+ 0:04:42.289,0:04:45.649
+ technique has to be right but above all
+ 0:04:44.089,0:04:47.300
+ you have to concentrate on the borns
+ 0:04:45.649,0:04:48.580
+ it's coming to you you know you're not
+ 0:04:47.300,0:04:51.840
+ going to take a clutch
+ 0:04:48.580,0:04:51.840
+ concentration is everything
+ 0:04:59.330,0:05:03.009
+ the opening gun of the game then
+ 0:05:09.220,0:05:12.429
+ [Music]
+ 0:05:13.060,0:05:16.200
+ here's cover chicks
+ 0:05:19.160,0:05:25.940
+ towards the back pasture sir spinach
+ 0:05:22.560,0:05:25.940
+ from the goalkeeper routine
+ 0:05:28.310,0:05:31.570
+ konishi winnings
+ 0:05:34.060,0:05:42.730
+ Alfonzo Davies here is yessir Achilles
+ 0:05:38.530,0:05:46.020
+ mrs. robert levin dosti quick-thinking -
+ 0:05:42.730,0:05:46.020
+ dispossessed his opponents
+ 0:05:46.150,0:05:51.240
+ [Music]
+ 0:05:47.889,0:05:51.240
+ but a a competent
+ 0:05:52.150,0:05:55.050
+ but so no toy
+ 0:05:56.530,0:05:59.670
+ being a quitter
+ 0:06:02.110,0:06:14.480
+ davus
+ 0:06:04.630,0:06:18.180
+ tiago search Capri hereis tiago Ababa
+ 0:06:14.480,0:06:22.040
+ here is urokinase for the quite content
+ 0:06:18.180,0:06:22.040
+ to knock it around inside their own half
+ 0:06:22.740,0:06:27.919
+ [Applause]
+ 0:06:24.960,0:06:27.919
+ versus Mira
+ 0:06:27.940,0:06:33.199
+ gotta go 
+ 0:06:30.240,0:06:33.199
+ Tomas Tamina
+ 0:06:33.440,0:06:37.790
+ hereis Tiago
+ 0:06:34.440,0:06:40.620
+ [Applause]
+ 0:06:37.790,0:06:43.970
+ and the counter-attack is on options
+ 0:06:40.620,0:06:46.540
+ available Conte
+ 0:06:43.970,0:06:48.010
+ Hudson oh boy
+ 0:06:46.540,0:06:50.460
+ might be able to produce from this
+ 0:06:48.010,0:06:53.880
+ position
+ 0:06:50.460,0:06:56.150
+ a screaming critter malabar comes up
+ 0:06:53.880,0:06:56.150
+ with it
+ 0:06:57.900,0:07:02.770
+ go ahead Scott
+ 0:06:59.599,0:07:02.770
+ Tomas Samina
+ 0:07:04.249,0:07:07.629
+ a bar with it
+ 0:07:07.750,0:07:13.730
+ by removing the ball around and getting
+ 0:07:09.970,0:07:16.210
+ deep into opposition territory
+ 0:07:13.730,0:07:18.690
+ Tiago
+ 0:07:16.210,0:07:20.670
+ [Applause]
+ 0:07:18.690,0:07:22.890
+ well this is just relaxed everybody they
+ 0:07:20.670,0:07:26.300
+ get a goal from this corner or buy one
+ 0:07:22.890,0:07:26.300
+ they could do with another one
+ 0:07:27.900,0:07:31.060
+ [Music]
+ 0:07:42.670,0:07:48.200
+ the electronic board has been held aloft
+ 0:07:45.410,0:07:49.760
+ two additional minutes here
+ 0:07:48.200,0:07:55.750
+ here is Yasuo Chinni
+ 0:07:49.760,0:07:55.750
+ [Applause]
+ 0:07:57.030,0:08:02.310
+ it's going to be so difficult to float
+ 0:08:00.040,0:08:09.009
+ them now
+ 0:08:02.310,0:08:09.009
+ [Applause]
+ 0:08:11.430,0:08:15.689
+ [Applause]
+ 0:08:16.559,0:08:21.839
+ it's just that dream strike brilliant
+ 0:08:19.409,0:08:24.919
+ brilliant effort let's take another look
+ 0:08:21.839,0:08:24.919
+ at that girl shall we
+ 0:08:25.920,0:08:30.660
+ [Applause]
+ 0:08:43.120,0:08:47.819
+ well now on aggregates to nil they lead
+ 0:08:49.840,0:08:52.880
+ and with that the first half draws to a
+ 0:08:52.330,0:09:07.330
+ close
+ 0:08:52.880,0:09:07.330
+ [Applause]
+ 0:09:25.560,0:09:28.620
+ Tiago now what's he gonna do from this
+ 0:09:28.020,0:09:32.760
+ position
+ 0:09:28.620,0:09:34.680
+ can't miss Shirley and it is the opening
+ 0:09:32.760,0:09:39.360
+ goal of the context well it was always
+ 0:09:34.680,0:09:41.040
+ gonna be a tough leave and offski well
+ 0:09:39.360,0:09:42.930
+ listen just relax everybody if they get
+ 0:09:41.040,0:09:43.730
+ a call from this corner and here's your
+ 0:09:42.930,0:09:47.240
+ sewer Jimmy
+ 0:09:43.730,0:09:47.240
+ dearest Iago
+ 0:09:49.870,0:10:06.940
+ the girl here for fun it's going to be
+ 0:09:53.080,0:10:09.730
+ so difficult to thwart them now and
+ 0:10:06.940,0:10:12.339
+ they're underway in the second half of
+ 0:10:09.730,0:10:15.769
+ this Champions League semi-final second
+ 0:10:12.339,0:10:19.250
+ leg it's with William
+ 0:10:15.769,0:10:19.250
+ matteo college
+ 0:10:20.170,0:10:30.390
+ here is William Emerson
+ 0:10:24.630,0:10:33.660
+ Joe senior Abraham under rep delightful
+ 0:10:30.390,0:10:37.700
+ pass it was a close-run thing but the
+ 0:10:33.660,0:10:37.700
+ goalkeeper just got there first
+ 0:10:38.930,0:10:49.240
+ here's Kovacic Ksenia on the ball
+ 0:10:43.339,0:10:49.240
+ Emerson is your junior can't a nap
+ 0:10:49.749,0:10:55.169
+ Hudson oh boy
+ 0:10:51.210,0:10:55.169
+ [Applause]
+ 0:10:55.300,0:11:00.510
+ running with the ball confidently the
+ 0:10:58.120,0:11:02.800
+ cross is on
+ 0:11:00.510,0:11:05.089
+ come a change
+ 0:11:02.800,0:11:08.529
+ and back with William
+ 0:11:05.089,0:11:08.529
+ and now they help the ball back
+ 0:11:10.290,0:11:15.610
+ and pavan on the ball
+ 0:11:11.890,0:11:15.610
+ [Applause]
+ 0:11:20.240,0:11:24.810
+ and over the touchline for what will be
+ 0:11:22.369,0:11:29.029
+ a bayern throwing
+ 0:11:24.810,0:11:29.029
+ it's a substitution for fire
+ 0:11:38.110,0:11:46.010
+ this is Alaba nearest Iago Kim a ship
+ 0:11:42.430,0:11:49.910
+ with its live and offski and now Katina
+ 0:11:46.010,0:11:53.260
+ [Applause]
+ 0:11:49.910,0:11:53.260
+ Serge Calabria
+ 0:11:54.240,0:11:59.459
+ they're on the scent of something
+ 0:11:55.980,0:12:03.830
+ positive pass after pass keeping their
+ 0:11:59.459,0:12:06.830
+ opponents moving crossing possibilities
+ 0:12:03.830,0:12:06.830
+ Tiago
+ 0:12:07.430,0:12:11.960
+ probably read and executed taking care
+ 0:12:10.460,0:12:17.570
+ of business defensively here
+ 0:12:11.960,0:12:18.290
+ Conte joshing yo Conte now a spiel
+ 0:12:17.570,0:12:21.980
+ Equator
+ 0:12:18.290,0:12:23.990
+ Kristensen a speed equation am Angela
+ 0:12:21.980,0:12:29.200
+ Conte
+ 0:12:23.990,0:12:29.200
+ Conte of all Aspen equator
+ 0:12:29.450,0:12:36.810
+ I'd sooner die Kristensen
+ 0:12:33.390,0:12:38.070
+ Conte we're now inside the final 20
+ 0:12:36.810,0:12:41.010
+ minutes of the game
+ 0:12:38.070,0:12:45.740
+ [Applause]
+ 0:12:41.010,0:12:45.740
+ Georgie no don't say that
+ 0:12:46.680,0:12:49.579
+ no senior
+ 0:12:50.260,0:12:56.020
+ just looking for the right moment for
+ 0:12:51.760,0:13:02.860
+ that final pass bearing in field here is
+ 0:12:56.020,0:13:05.770
+ your senior con say he was contribution
+ 0:13:02.860,0:13:08.499
+ but what next strong glove on the ball
+ 0:13:05.770,0:13:13.989
+ from the deeper
+ 0:13:08.499,0:13:17.789
+ and Christiansen Hoshino possession
+ 0:13:13.989,0:13:17.789
+ changes hands they interception there
+ 0:13:20.310,0:13:23.790
+ Thomas Mueller
+ 0:13:22.140,0:13:29.550
+ [Applause]
+ 0:13:23.790,0:13:31.730
+ an oncogene yo here is Yasuo Kennish
+ 0:13:29.550,0:13:34.680
+ Tiago
+ 0:13:31.730,0:13:36.880
+ live and offski
+ 0:13:34.680,0:13:39.230
+ can a Bri with it
+ 0:13:36.880,0:13:42.360
+ he's given it straight to the opposition
+ 0:13:39.230,0:13:46.920
+ [Applause]
+ 0:13:42.360,0:13:46.920
+ now can they canter clinically
+ 0:13:46.990,0:13:51.930
+ this is a speedy quitter looks promising
+ 0:13:49.900,0:13:54.140
+ this has been equator
+ 0:13:51.930,0:13:56.980
+ [Applause]
+ 0:13:54.140,0:13:56.980
+ Kristensen
+ 0:13:57.540,0:14:03.660
+ and guru Conte Chelsea finding forward
+ 0:14:01.529,0:14:04.800
+ gears can they take advantage of this
+ 0:14:03.660,0:14:06.640
+ promising position
+ 0:14:04.800,0:14:09.490
+ [Applause]
+ 0:14:06.640,0:14:11.980
+ nothing wrong with that idea and the
+ 0:14:09.490,0:14:14.830
+ keeper had to react in an instant oh and
+ 0:14:11.980,0:14:15.070
+ dizzy Wow does he react water saved at
+ 0:14:14.830,0:14:20.709
+ ease
+ 0:14:15.070,0:14:20.709
+ [Applause]
+ 0:14:28.170,0:14:33.410
+ Willian task of taking the corner
+ 0:14:30.329,0:14:33.410
+ Kristen Waugh
+ 0:14:34.270,0:14:37.050
+ as I go
+ 0:14:38.750,0:14:43.790
+ the official word there will be a
+ 0:14:40.490,0:14:46.400
+ minimum of two added minutes lemon
+ 0:14:43.790,0:14:48.530
+ toasty now live and offski well it's a
+ 0:14:46.400,0:14:52.100
+ great advantage to any side when you're
+ 0:14:48.530,0:14:54.380
+ as comfortable on the ball as its
+ 0:14:52.100,0:14:56.990
+ official bowling and they get took a
+ 0:14:54.380,0:14:58.880
+ Champions League final well Derek just
+ 0:14:56.990,0:15:01.730
+ knuckler celebrations and quite rightly
+ 0:14:58.880,0:15:04.160
+ so sometimes semi-finals can be a little
+ 0:15:01.730,0:15:06.860
+ bit too much for players one side has to
+ 0:15:04.160,0:15:08.420
+ lose one side goes to the final I'm very
+ 0:15:06.860,0:15:10.430
+ envious of those players look at him
+ 0:15:08.420,0:15:12.800
+ enjoying this moment still work to be
+ 0:15:10.430,0:15:13.300
+ done before they pick that famous trophy
+ 0:15:12.800,0:15:20.029
+ off though
+ 0:15:13.300,0:15:20.029
+ [Applause]
+ 0:15:23.310,0:15:31.539
+ [Applause]
+ 0:15:37.110,0:15:44.850
+ [Music]
+ 0:15:42.390,0:15:45.480
+ Tiago now what's he gonna do from this
+ 0:15:44.850,0:15:49.560
+ position
+ 0:15:45.480,0:15:50.970
+ can't miss Shirley and it is the opening
+ 0:15:49.560,0:15:52.200
+ goal of the contest
+ 0:15:50.970,0:15:55.010
+ well it was always gonna be a tough
+ 0:15:52.200,0:15:55.010
+ leave on top Sookie
+ 0:15:56.280,0:15:59.880
+ just relax everybody they get a goal
+ 0:15:58.140,0:16:01.000
+ from this corner and here's yo suah
+ 0:15:59.880,0:16:03.990
+ Kimmy
+ 0:16:01.000,0:16:03.990
+ hereis Thiago
+ 0:16:07.000,0:16:13.720
+ for gone it's going to be so difficult
+ 0:16:10.610,0:16:13.720
+ to thwart them now
+ 0:16:14.010,0:16:17.429
+ [Music]
+ 0:16:19.600,0:16:25.640
+ the keeper had to react in an instant oh
+ 0:16:22.820,0:16:28.150
+ and dizzy Wow does he react what to say
+ 0:16:25.640,0:16:28.150
+ that is
+ 0:16:28.510,0:16:33.549
+ [Music] &lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry><entry><title type="html">Barcelona vs Napoli | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/barcelona-vs-napoli-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="Barcelona vs Napoli | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:52:12+05:30</published><updated>2020-02-17T19:52:12+05:30</updated><id>http://localhost:4000/2020/02/17/barcelona-vs-napoli-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/barcelona-vs-napoli-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Barcelona vs Napoli&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20&lt;br /&gt;
+Stadium : Camp Nou&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:00.670,0:00:08.580
+ [Music]
+ 0:00:05.960,0:00:11.639
+ hello wherever you happen to be welcome
+ 0:00:08.580,0:00:13.410
+ to Casa Dona welcome to Barcelona my
+ 0:00:11.639,0:00:15.150
+ name's Derek ray and joining me for
+ 0:00:13.410,0:00:17.220
+ commentary on this game is the former
+ 0:00:15.150,0:00:20.070
+ Arsenal and England fullback Lee Dixon
+ 0:00:17.220,0:00:22.380
+ and Barcelona know full well they have a
+ 0:00:20.070,0:00:24.510
+ lot of work to do in the second and
+ 0:00:22.380,0:00:27.599
+ decisive leg of this Champions League
+ 0:00:24.510,0:00:29.760
+ semi-final its Barcelona up against
+ 0:00:27.599,0:00:32.189
+ Napoli while the visitors played really
+ 0:00:29.760,0:00:34.410
+ well in the home leg gaining that small
+ 0:00:32.189,0:00:36.090
+ lead well this is a different story away
+ 0:00:34.410,0:00:37.980
+ from their ground away from their fans
+ 0:00:36.090,0:00:41.520
+ who knows how they're going to react
+ 0:00:37.980,0:00:44.360
+ really excited about this one Derek
+ 0:00:41.520,0:00:47.460
+ [Applause]
+ 0:00:44.360,0:00:48.220
+ [Music]
+ 0:00:47.460,0:01:16.740
+ [Applause]
+ 0:00:48.220,0:01:17.640
+ [Music]
+ 0:01:16.740,0:01:19.080
+ [Applause]
+ 0:01:17.640,0:01:32.119
+ [Music]
+ 0:01:19.080,0:01:32.119
+ [Applause]
+ 0:01:41.100,0:01:46.320
+ [Applause]
+ 0:01:43.290,0:01:49.530
+ looks like this mark and racist against
+ 0:01:46.320,0:01:51.840
+ Dotson go pee K starts alongside Clemen
+ 0:01:49.530,0:01:53.520
+ log lay in the center of defense and the
+ 0:01:51.840,0:01:55.810
+ defenders have better be on the terms
+ 0:01:53.520,0:02:00.249
+ because leading the line is Luis Suarez
+ 0:01:55.810,0:02:00.249
+ [Applause]
+ 0:02:02.040,0:02:05.159
+ [Music]
+ 0:02:06.040,0:02:11.110
+ a glance at the Napoli side well there's
+ 0:02:09.130,0:02:13.180
+ no great mystery is there we know
+ 0:02:11.110,0:02:15.610
+ normally how they're going to play and
+ 0:02:13.180,0:02:18.280
+ it's all about applying as much pressure
+ 0:02:15.610,0:02:19.870
+ as possible Lee can we anticipate seeing
+ 0:02:18.280,0:02:21.970
+ more of the same today yeah absolutely
+ 0:02:19.870,0:02:23.710
+ Derek if you're really good at something
+ 0:02:21.970,0:02:25.900
+ then why not they're very good at this
+ 0:02:23.710,0:02:28.630
+ all the team members have bought into
+ 0:02:25.900,0:02:30.650
+ this style of play one player slacks off
+ 0:02:28.630,0:02:33.160
+ and it all falls apart
+ 0:02:30.650,0:02:36.060
+ [Applause]
+ 0:02:33.160,0:02:36.060
+ and away by Barcelona
+ 0:02:36.500,0:02:42.240
+ [Applause]
+ 0:02:39.160,0:02:42.240
+ see Olinsky
+ 0:02:46.020,0:02:52.510
+ to your vanity Lorenzo
+ 0:02:48.670,0:02:57.150
+ Fabienne and now see Alinsky an
+ 0:02:52.510,0:02:57.150
+ attempting to throw a ball Malik
+ 0:02:57.209,0:03:00.890
+ no worries for the keeper
+ 0:03:09.660,0:03:15.720
+ we're foul play and as a result of recap
+ 0:03:13.030,0:03:15.720
+ thwart coming
+ 0:03:16.880,0:03:26.630
+ Mario Rui Fabian
+ 0:03:21.500,0:03:29.730
+ and here's Alan Neely now Kerry horn and
+ 0:03:26.630,0:03:32.380
+ you need your defender to take charge
+ 0:03:29.730,0:03:35.590
+ [Applause]
+ 0:03:32.380,0:03:35.590
+ too young
+ 0:03:36.230,0:03:41.480
+ Jordi Alba
+ 0:03:38.400,0:03:41.480
+ whose guess
+ 0:03:47.370,0:03:50.000
+ Archer
+ 0:03:50.770,0:03:56.230
+ now busquets Barcelona moving the ball
+ 0:03:54.310,0:03:59.100
+ swiftly and finding themselves in a
+ 0:03:56.230,0:03:59.100
+ promising position
+ 0:03:59.550,0:04:05.300
+ Sergi Roberto
+ 0:04:02.490,0:04:05.300
+ are to her
+ 0:04:08.140,0:04:12.600
+ they want that equalizer but they're
+ 0:04:10.090,0:04:14.660
+ passing remains smooth
+ 0:04:12.600,0:04:15.590
+ [Applause]
+ 0:04:14.660,0:04:18.260
+ the keeper would have been disappointed
+ 0:04:15.590,0:04:20.060
+ had he not dealt with it while losing by
+ 0:04:18.260,0:04:21.890
+ one they need to get level they need to
+ 0:04:20.060,0:04:25.270
+ put the pressure on and got a corner is
+ 0:04:21.890,0:04:25.270
+ a great opportunity for that
+ 0:04:33.550,0:04:41.639
+ messy but the corner well cluttered away
+ 0:04:36.879,0:04:44.909
+ and space for the cross busquets
+ 0:04:41.639,0:04:44.909
+ therapist guess
+ 0:04:44.910,0:04:51.650
+ [Applause]
+ 0:04:46.950,0:04:51.650
+ strong play here on the shielding front
+ 0:04:52.490,0:05:06.279
+ and now see Olinsky and here's Alan of
+ 0:04:59.790,0:05:08.870
+ que Dios village it's with Alan Fabian
+ 0:05:06.279,0:05:13.940
+ here's in senior
+ 0:05:08.870,0:05:17.840
+ Mario Rui wonderfully weighted pass in
+ 0:05:13.940,0:05:24.520
+ senior and blocked by pk
+ 0:05:17.840,0:05:24.520
+ [Applause]
+ 0:05:39.420,0:05:44.750
+ he's trippin in the corner clears his
+ 0:05:42.480,0:05:44.750
+ loins
+ 0:05:45.439,0:05:52.339
+ might really be able to trouble them
+ 0:05:47.239,0:05:56.749
+ here targets to aim at across latin
+ 0:05:52.339,0:06:01.479
+ guile and accuracy Suarez
+ 0:05:56.749,0:06:05.729
+ now busquets r2 has it
+ 0:06:01.479,0:06:05.729
+ are to her sergey Roberto
+ 0:06:07.820,0:06:16.450
+ passing it around with aplomb and his
+ 0:06:11.960,0:06:16.450
+ trailers lines Fabian
+ 0:06:18.970,0:06:25.120
+ Kyah horn giovannitti Lorenzo
+ 0:06:25.330,0:06:33.270
+ it's worth millage see Olinsky Olinsky
+ 0:06:29.250,0:06:33.270
+ nothing wrong with that idea
+ 0:06:33.330,0:06:41.599
+ but all counts were not art or messy
+ 0:06:43.270,0:06:48.190
+ Jordi Alba he's in control of the
+ 0:06:47.440,0:06:54.220
+ situation
+ 0:06:48.190,0:06:56.430
+ Sergio Busquets Frankie Dion Dion r2 has
+ 0:06:54.220,0:06:56.430
+ it
+ 0:06:58.490,0:07:03.160
+ and a significant block following that
+ 0:07:00.860,0:07:03.160
+ cross
+ 0:07:04.210,0:07:08.339
+ [Music]
+ 0:07:18.180,0:07:24.210
+ and overcomes the corner will they make
+ 0:07:21.150,0:07:29.169
+ it can't losing his opponents in the
+ 0:07:24.210,0:07:33.769
+ nick of time shows universe'
+ 0:07:29.169,0:07:35.940
+ piqué well the first 45 minutes have
+ 0:07:33.769,0:07:42.769
+ come and gone here in Catalonia
+ 0:07:35.940,0:07:42.769
+ [Applause]
+ 0:08:06.210,0:08:11.849
+ [Applause]
+ 0:08:10.770,0:08:13.680
+ and the keeper would have been
+ 0:08:11.849,0:08:15.750
+ disappointed had he not dealt with it
+ 0:08:13.680,0:08:18.710
+ while losing by one they need to get
+ 0:08:15.750,0:08:18.710
+ level they need to put
+ 0:08:19.330,0:08:24.980
+ love by pink egg
+ 0:08:21.250,0:08:24.980
+ [Applause]
+ 0:08:28.530,0:08:33.290
+ [Music]
+ 0:08:35.820,0:08:48.670
+ [Music]
+ 0:08:45.330,0:08:50.800
+ and they're underway in the second half
+ 0:08:48.670,0:08:53.590
+ of this Champions League semi-final
+ 0:08:50.800,0:08:59.440
+ second leg
+ 0:08:53.590,0:09:06.230
+ Giovanni Lorenzo and here's Allen and
+ 0:08:59.440,0:09:09.539
+ now Solinsky Fabian Mario Rui
+ 0:09:06.230,0:09:09.539
+ [Applause]
+ 0:09:11.350,0:09:16.620
+ now they attack promising as it was
+ 0:09:13.540,0:09:16.620
+ discovered there
+ 0:09:21.790,0:09:24.750
+ Jordi Alba
+ 0:09:27.710,0:09:31.600
+ the young
+ 0:09:29.440,0:09:34.180
+ messy
+ 0:09:31.600,0:09:39.250
+ cleanest man and the cross is very much
+ 0:09:34.180,0:09:41.140
+ on and the goalkeeper up to the task
+ 0:09:39.250,0:09:44.530
+ well yes a decent say but if he lets
+ 0:09:41.140,0:09:46.390
+ that end you be asking questions Deon
+ 0:09:44.530,0:09:48.790
+ now clears man
+ 0:09:46.390,0:09:53.320
+ so they golf perhaps a little bit too
+ 0:09:48.790,0:10:01.530
+ much here making progress I've seeded
+ 0:09:53.320,0:10:01.530
+ possession bar sir triple key fix
+ 0:10:04.290,0:10:08.240
+ yes ma'am
+ 0:10:06.150,0:10:12.880
+ crossing opportunity
+ 0:10:08.240,0:10:15.690
+ [Applause]
+ 0:10:12.880,0:10:15.690
+ Fabiana
+ 0:10:16.170,0:10:25.150
+ and now szalinski fabian kudi Barney
+ 0:10:21.890,0:10:28.450
+ given away by Napoli
+ 0:10:25.150,0:10:30.680
+ [Applause]
+ 0:10:28.450,0:10:32.510
+ now push gas
+ 0:10:30.680,0:10:37.839
+ ji-yong
+ 0:10:32.510,0:10:37.839
+ pumicing sequence says he Roberto
+ 0:10:38.190,0:10:43.589
+ pulls it back well the threat was very
+ 0:10:41.009,0:10:45.060
+ real marvelous defending it might be
+ 0:10:43.589,0:10:54.529
+ perfectly set up for the cancer a
+ 0:10:45.060,0:10:54.529
+ circular giovannitti Lorenzo
+ 0:10:54.840,0:11:00.130
+ Bobby omelet
+ 0:10:57.540,0:11:01.990
+ genuinely thought they might cash in on
+ 0:11:00.130,0:11:04.450
+ that occasion but haven't been able to
+ 0:11:01.990,0:11:07.350
+ do so well let's come down to the final
+ 0:11:04.450,0:11:07.350
+ 20 minutes here
+ 0:11:08.200,0:11:11.690
+ [Applause]
+ 0:11:09.810,0:11:14.930
+ Prius man
+ 0:11:11.690,0:11:17.089
+ Leonel may see in the middle well close
+ 0:11:14.930,0:11:22.990
+ it away
+ 0:11:17.089,0:11:24.980
+ setsuna better r2 has it Sergio Busquets
+ 0:11:22.990,0:11:32.730
+ possession changes hands they
+ 0:11:24.980,0:11:36.710
+ interception there it's with Alan
+ 0:11:32.730,0:11:36.710
+ [Applause]
+ 0:11:37.529,0:11:40.459
+ Kyah horn
+ 0:11:40.740,0:11:46.650
+ and here's Alan and scope for them to
+ 0:11:43.860,0:11:49.740
+ produce something exciting now he must
+ 0:11:46.650,0:11:52.250
+ favor the cross significant block from
+ 0:11:49.740,0:11:52.250
+ pk
+ 0:11:54.480,0:12:02.029
+ and now see Olinsky
+ 0:11:57.680,0:12:03.189
+ hoody Barney man honest he swears hoodie
+ 0:12:02.029,0:12:09.319
+ Valley
+ 0:12:03.189,0:12:13.329
+ Fabienne keeping the ball moving and he
+ 0:12:09.319,0:12:13.329
+ was in the right place to intercept
+ 0:12:15.900,0:12:24.680
+ Sergio Busquets r2 has it five minutes
+ 0:12:20.610,0:12:24.680
+ remaining and level pegging here
+ 0:12:24.810,0:12:29.680
+ looking for the through ball
+ 0:12:27.520,0:12:34.220
+ to a fairly easily
+ 0:12:29.680,0:12:34.220
+ [Applause]
+ 0:12:41.200,0:12:48.240
+ Mario Rui Solinsky Mario Rui Oh nice
+ 0:12:47.110,0:12:50.680
+ ball
+ 0:12:48.240,0:12:54.400
+ the referee is decided there will be
+ 0:12:50.680,0:12:58.080
+ just one minute of added time and a
+ 0:12:54.400,0:12:58.080
+ substitution in the offing
+ 0:13:06.310,0:13:11.769
+ [Music]
+ 0:13:08.500,0:13:11.769
+ [Applause]
+ 0:13:11.880,0:13:19.860
+ Fabienne crossing possibilities mario
+ 0:13:16.350,0:13:22.290
+ rui the referee's whistle and it is
+ 0:13:19.860,0:13:24.450
+ official the hosts are going to the
+ 0:13:22.290,0:13:26.310
+ final well Derek just look at the
+ 0:13:24.450,0:13:28.860
+ celebrations and quite rightly so
+ 0:13:26.310,0:13:31.230
+ sometimes semi-finals can be a little
+ 0:13:28.860,0:13:33.930
+ bit too much for players one side has to
+ 0:13:31.230,0:13:35.490
+ lose one side goes to the final I'm very
+ 0:13:33.930,0:13:37.500
+ envious of those players look at them
+ 0:13:35.490,0:13:39.840
+ enjoying this moment still work to be
+ 0:13:37.500,0:13:40.200
+ done before they pick that famous trophy
+ 0:13:39.840,0:14:00.019
+ up though
+ 0:13:40.200,0:14:00.019
+ [Applause]
+ 0:14:10.620,0:14:14.570
+ [Applause]
+ 0:14:13.490,0:14:16.250
+ and the keeper would have been
+ 0:14:14.570,0:14:18.529
+ disappointed had he not dealt with it
+ 0:14:16.250,0:14:21.190
+ while losing by one they need to get
+ 0:14:18.529,0:14:21.190
+ level the Nita
+ 0:14:22.070,0:14:27.969
+ clock by a gang
+ 0:14:24.710,0:14:27.969
+ [Applause]&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry><entry><title type="html">Juventus vs Lyon | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/juventus-vs-lyon-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="Juventus vs Lyon | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:50:52+05:30</published><updated>2020-02-17T19:50:52+05:30</updated><id>http://localhost:4000/2020/02/17/juventus-vs-lyon-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/juventus-vs-lyon-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Juventus vs Lyon&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20&lt;br /&gt;
+Stadium : Allianz Stadium&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:01.180,0:00:09.660
+ [Music]
+ 0:00:05.990,0:00:12.389
+ and the warm welcome on what is an ideal
+ 0:00:09.660,0:00:14.340
+ night for football you've got to say my
+ 0:00:12.389,0:00:16.800
+ name is Derrick ray and I'm joined for
+ 0:00:14.340,0:00:19.199
+ commentary by Lee Dixon and what we have
+ 0:00:16.800,0:00:22.109
+ to look forward to is the second leg of
+ 0:00:19.199,0:00:24.600
+ this Champions League semi-final bleep
+ 0:00:22.109,0:00:26.490
+ this ought to be special well direct my
+ 0:00:24.600,0:00:28.920
+ suggestion is you play the game as if
+ 0:00:26.490,0:00:31.679
+ it's all square if you start to protect
+ 0:00:28.920,0:00:33.870
+ a small margin too much this game can
+ 0:00:31.679,0:00:36.410
+ run away from you I'm really looking
+ 0:00:33.870,0:00:36.410
+ forward to this
+ 0:00:37.250,0:00:44.750
+ [Music]
+ 0:00:40.670,0:00:48.070
+ [Applause]
+ 0:00:44.750,0:00:48.720
+ [Music]
+ 0:00:48.070,0:01:19.490
+ [Applause]
+ 0:00:48.720,0:01:41.839
+ [Music]
+ 0:01:19.490,0:01:41.839
+ [Applause]
+ 0:01:41.939,0:01:47.549
+ the line up there in the fort of the
+ 0:01:43.590,0:01:50.100
+ hosts and they are a team Lee known for
+ 0:01:47.549,0:01:52.310
+ the aggressive high pressing absolutely
+ 0:01:50.100,0:01:55.079
+ that takes a lot of hard work a lot of
+ 0:01:52.310,0:01:57.209
+ organization force your position to make
+ 0:01:55.079,0:01:59.700
+ early passes the weakness of it if you
+ 0:01:57.209,0:02:02.270
+ beat the high press you can get exposed
+ 0:01:59.700,0:02:02.270
+ in the back
+ 0:02:06.460,0:02:11.860
+ for Olympic Leon air it looks like this
+ 0:02:08.530,0:02:14.200
+ Anthony Lopez begins in goal Marcel
+ 0:02:11.860,0:02:17.140
+ starts with Kenny get it in the fallback
+ 0:02:14.200,0:02:19.660
+ positions Luca to sob plays with who SEM
+ 0:02:17.140,0:02:22.030
+ Awad in central midfield and they line
+ 0:02:19.660,0:02:24.630
+ up with just the one striker looking to
+ 0:02:22.030,0:02:24.630
+ do a bit of damage
+ 0:02:30.760,0:02:33.599
+ Khedira
+ 0:02:34.130,0:02:38.960
+ it's with Gonzalo higuaín
+ 0:02:36.830,0:02:41.470
+ in a position from which they could
+ 0:02:38.960,0:02:44.410
+ potentially do a bit of damage here
+ 0:02:41.470,0:02:49.930
+ delete
+ 0:02:44.410,0:02:52.739
+ now Matt Sweeney peonage Matt sweetie
+ 0:02:49.930,0:02:52.739
+ Jannik
+ 0:02:52.790,0:02:58.069
+ it is the perfect stage for a top player
+ 0:02:55.370,0:03:01.189
+ and this man takes every game very
+ 0:02:58.069,0:03:05.120
+ seriously he's out forgot versus blended
+ 0:03:01.189,0:03:07.740
+ ball from Ronaldo Macau it is and what a
+ 0:03:05.120,0:03:10.180
+ significant one
+ 0:03:07.740,0:03:12.350
+ [Applause]
+ 0:03:10.180,0:03:15.950
+ an extra time
+ 0:03:12.350,0:03:17.870
+ possibility while the keeper have been
+ 0:03:15.950,0:03:19.550
+ frustrated he thought he'd saved it was
+ 0:03:17.870,0:03:19.840
+ so unlucky there is a good angle from
+ 0:03:19.550,0:03:23.200
+ him
+ 0:03:19.840,0:03:26.849
+ well what is in the packet in it
+ 0:03:23.200,0:03:26.849
+ a chance to revisit the goal
+ 0:03:31.210,0:03:36.409
+ [Applause]
+ 0:03:44.660,0:03:49.690
+ so 1 1 it is on aggregate
+ 0:03:52.540,0:03:55.690
+ [Applause]
+ 0:03:56.569,0:04:00.700
+ take some progress with the ball of his
+ 0:03:58.489,0:04:00.700
+ feet
+ 0:04:01.720,0:04:07.209
+ [Applause]
+ 0:04:07.970,0:04:13.900
+ and trust in their and no-nonsense
+ 0:04:10.940,0:04:17.440
+ defensive clearance
+ 0:04:13.900,0:04:17.440
+ here's Ronaldo
+ 0:04:17.829,0:04:30.900
+ Alexandra now Cristiano Ronaldo godina
+ 0:04:24.190,0:04:37.479
+ Alexandra now Khedira pianist
+ 0:04:30.900,0:04:41.849
+ dibala Khedira Alexandra Khedira
+ 0:04:37.479,0:04:41.849
+ Jannik Matuidi
+ 0:04:42.230,0:04:48.910
+ on the run a good one has been made by
+ 0:04:44.330,0:04:48.910
+ Matsui D losing possession here
+ 0:04:51.510,0:04:59.690
+ it's worth Tucson on the ball massage
+ 0:04:55.190,0:04:59.690
+ lovely weighted ball they might be in
+ 0:04:59.969,0:05:05.749
+ and teammates to play it too
+ 0:05:02.479,0:05:07.939
+ that's clear well Derek is so finely
+ 0:05:05.749,0:05:09.930
+ balanced you just wonder if set pieces
+ 0:05:07.939,0:05:23.569
+ will be the difference today
+ 0:05:09.930,0:05:26.240
+ [Applause]
+ 0:05:23.569,0:05:29.029
+ and overcomes the corner high-class
+ 0:05:26.240,0:05:31.630
+ goalkeeping perfect positioning really
+ 0:05:29.029,0:05:35.680
+ top-class goalkeeping brilliant safe
+ 0:05:31.630,0:05:35.680
+ [Applause]
+ 0:05:36.670,0:05:40.140
+ Cristiano Ronaldo
+ 0:05:40.750,0:05:49.390
+ here's Reynaldo Alexandra now
+ 0:05:46.080,0:05:49.390
+ [Applause]
+ 0:05:49.990,0:05:55.970
+ so now that
+ 0:05:51.930,0:05:55.970
+ he's got the right idea with that pass
+ 0:05:57.580,0:06:10.480
+ [Applause]
+ 0:06:27.500,0:06:30.700
+ it's worth to saw
+ 0:06:32.470,0:06:36.840
+ ha
+ 0:06:34.570,0:06:39.360
+ [Applause]
+ 0:06:36.840,0:06:45.020
+ Tiago Mendez
+ 0:06:39.360,0:06:45.020
+ Cristiano Ronaldo big wine
+ 0:06:45.700,0:06:51.330
+ teni a is with Allah
+ 0:06:49.860,0:06:54.020
+ and you've got to keep the ball a bit
+ 0:06:51.330,0:06:54.020
+ better than that
+ 0:06:57.340,0:07:04.420
+ it continues to make hay and the cross
+ 0:07:00.040,0:07:08.840
+ is very much on Alexandra waiting at the
+ 0:07:04.420,0:07:12.120
+ farmers Gonzalo higuaín anti-god
+ 0:07:08.840,0:07:12.900
+ accuracy with the header just what they
+ 0:07:12.120,0:07:21.930
+ need
+ 0:07:12.900,0:07:24.690
+ [Applause]
+ 0:07:21.930,0:07:27.090
+ we put some super balls in from the wide
+ 0:07:24.690,0:07:31.520
+ areas and that one's probably the best
+ 0:07:27.090,0:07:33.740
+ and what did they get reward a goal
+ 0:07:31.520,0:07:36.160
+ the goal again albeit from a different
+ 0:07:33.740,0:07:36.160
+ angle
+ 0:07:55.409,0:07:59.689
+ one is the aggregate lead 
+ 0:08:08.470,0:08:13.260
+ wonderful challenge the throw-in coming
+ 0:08:11.140,0:08:13.260
+ up
+ 0:08:13.350,0:08:17.660
+ [Applause]
+ 0:08:16.050,0:08:20.849
+ Tiago Mendez
+ 0:08:17.660,0:08:20.849
+ [Applause]
+ 0:08:21.870,0:08:26.870
+ is with our others to play it too
+ 0:08:29.320,0:08:35.169
+ Matuidi racing forward trying to catch
+ 0:08:32.380,0:08:38.620
+ them out on that break looked so
+ 0:08:35.169,0:08:40.780
+ promising but nothing coming from it -
+ 0:08:38.620,0:08:43.100
+ sorry
+ 0:08:40.780,0:08:45.440
+ we've been waiting to find out now we
+ 0:08:43.100,0:08:47.650
+ know a minimum of three added minutes
+ 0:08:45.440,0:08:47.650
+ here
+ 0:08:49.560,0:08:54.870
+ teammate in support that was fired
+ 0:08:52.290,0:08:56.760
+ straight up Nikita no real difficulties
+ 0:08:54.870,0:08:58.680
+ for him no decent position from the
+ 0:08:56.760,0:09:01.860
+ goalkeeper poor shot to be honest beer
+ 0:08:58.680,0:09:02.370
+ and so it is the first half story has
+ 0:09:01.860,0:09:09.970
+ been rated
+ 0:09:02.370,0:09:09.970
+ [Applause]
+ 0:09:25.450,0:09:32.470
+ [Music]
+ 0:09:36.460,0:09:41.370
+ thus a splendid ball from Ronaldo
+ 0:09:39.380,0:09:44.820
+ [Applause]
+ 0:09:41.370,0:09:47.190
+ Hanako it is and what a significant one
+ 0:09:44.820,0:09:51.140
+ they're locked together again he just
+ 0:09:47.190,0:09:51.140
+ can't burn Aldo
+ 0:09:51.170,0:09:56.600
+ [Applause]
+ 0:09:57.760,0:10:00.970
+ [Music]
+ 0:10:03.270,0:10:10.980
+ Alexandra
+ 0:10:06.250,0:10:10.980
+ waiting at the far post Gonzalo higuaín
+ 0:10:11.480,0:10:17.740
+ and the goal here accuracy with the
+ 0:10:15.170,0:10:29.019
+ header just what they need
+ 0:10:17.740,0:10:32.959
+ [Music]
+ 0:10:29.019,0:10:35.449
+ and they're underway in the second half
+ 0:10:32.959,0:10:39.249
+ of this Champions League semi-final
+ 0:10:35.449,0:10:39.249
+ second leg Anderson
+ 0:10:39.580,0:10:47.269
+ and now Kenny Teton Tiago Mendez
+ 0:10:44.080,0:10:47.269
+ [Applause]
+ 0:10:47.280,0:10:53.629
+ I wa
+ 0:10:49.410,0:10:53.629
+ towering Teton
+ 0:10:53.670,0:10:58.700
+ but after that fantastic effort it's
+ 0:10:55.680,0:10:58.700
+ gone out for throwing
+ 0:11:01.720,0:11:07.650
+ [Applause]
+ 0:11:04.750,0:11:07.650
+ Mendes
+ 0:11:07.660,0:11:13.210
+ towering techo
+ 0:11:10.510,0:11:16.380
+ [Applause]
+ 0:11:13.210,0:11:16.380
+ now let's see about lacrosse
+ 0:11:16.910,0:11:23.790
+ sir Mendez well the threat was very 
+ 0:11:21.020,0:11:26.960
+ real marvellous defending
+ 0:11:23.790,0:11:26.960
+ [Applause]
+ 0:11:27.089,0:11:30.079
+ it's with our
+ 0:11:31.780,0:11:34.780
+ Anderson
+ 0:11:41.450,0:11:44.290
+ I was
+ 0:11:44.730,0:11:47.960
+ Tiago Mendez
+ 0:11:48.220,0:11:53.510
+ it's with our
+ 0:11:49.890,0:11:55.310
+ [Applause]
+ 0:11:53.510,0:11:59.090
+ they're on the scent of something
+ 0:11:55.310,0:12:03.070
+ positive amber inside the final 30
+ 0:11:59.090,0:12:03.070
+ minutes big ye
+ 0:12:04.339,0:12:09.980
+ Cristiano Ronaldo passing it with a bit
+ 0:12:08.399,0:12:12.860
+ of panache
+ 0:12:09.980,0:12:14.840
+ Rinaldo well it's a funny situation they
+ 0:12:12.860,0:12:16.370
+ find themselves in they're up by one but
+ 0:12:14.840,0:12:19.790
+ they can see they're out on the away
+ 0:12:16.370,0:12:22.090
+ goals they will now make use of the
+ 0:12:19.790,0:12:29.989
+ substitutes bench
+ 0:12:22.090,0:12:29.989
+ [Applause]
+ 0:12:30.780,0:12:34.530
+ he's driven in the corner the end
+ 0:12:33.360,0:12:38.370
+ product just wasn't there
+ 0:12:34.530,0:12:41.240
+ [Applause]
+ 0:12:38.370,0:12:41.240
+ P an itch
+ 0:12:41.610,0:12:48.080
+ Renaldo Nattie Bella changer reverse it
+ 0:12:49.620,0:12:53.140
+ to our Ordnung room to maneuver on the
+ 0:12:52.740,0:12:56.660
+ wing
+ 0:12:53.140,0:12:59.220
+ [Applause]
+ 0:12:56.660,0:13:02.370
+ and Scott put the cross
+ 0:12:59.220,0:13:04.980
+ fire again towards go well that wasn't a
+ 0:13:02.370,0:13:06.120
+ million miles away no he was close it
+ 0:13:04.980,0:13:09.379
+ was a decent effort
+ 0:13:06.120,0:13:09.379
+ they'll keep plugging away I'm sure
+ 0:13:11.450,0:13:20.020
+ [Applause]
+ 0:13:24.620,0:13:31.040
+ ha
+ 0:13:26.510,0:13:31.040
+ Tiago Mendes glory
+ 0:13:31.110,0:13:37.640
+ Teta that drop trou ray has it Anderson
+ 0:13:39.070,0:13:47.000
+ tiago mendes - rio ray others in the
+ 0:13:43.610,0:13:50.320
+ vicinity has plenty of know-how in the
+ 0:13:47.000,0:13:50.320
+ ball shielding department
+ 0:13:56.070,0:14:02.720
+ Alexandra now P an itch dibala
+ 0:14:00.170,0:14:06.009
+ [Applause]
+ 0:14:02.720,0:14:06.009
+ then turn cool with it
+ 0:14:08.640,0:14:12.300
+ Yonex now
+ 0:14:10.150,0:14:14.890
+ [Applause]
+ 0:14:12.300,0:14:20.929
+ crippled capex
+ 0:14:14.890,0:14:20.929
+ [Applause]
+ 0:14:21.710,0:14:30.230
+ not a good pass
+ 0:14:24.070,0:14:33.130
+ [Applause]
+ 0:14:30.230,0:14:33.130
+ Mendes
+ 0:14:36.070,0:14:40.380
+ running superbly to take back possession
+ 0:14:44.600,0:14:50.959
+ Benten cooler with it and five minutes
+ 0:14:47.899,0:14:52.699
+ to go you can absolutely sense the
+ 0:14:50.959,0:14:56.449
+ frustration drawing in the opposition
+ 0:14:52.699,0:15:01.040
+ camp they can't get near the ball big ye
+ 0:14:56.449,0:15:02.060
+ is with dibala quite what he gwine had
+ 0:15:01.040,0:15:06.970
+ in mind that pass
+ 0:15:02.060,0:15:11.050
+ [Applause]
+ 0:15:06.970,0:15:13.240
+ and now Kenny Teton we've had the
+ 0:15:11.050,0:15:16.080
+ official word there will be a minimum of
+ 0:15:13.240,0:15:19.820
+ two added MINIX
+ 0:15:16.080,0:15:19.820
+ and that's an important intervention
+ 0:15:19.830,0:15:23.340
+ they were clearly on the receiving end
+ 0:15:21.510,0:15:25.180
+ so a free kick is next
+ 0:15:23.340,0:15:27.430
+ [Applause]
+ 0:15:25.180,0:15:28.800
+ and they have elected to go to the bench
+ 0:15:27.430,0:15:32.929
+ at this stage of the game
+ 0:15:28.800,0:15:32.929
+ [Applause]
+ 0:15:40.250,0:15:48.920
+ P an inch and it's official the hosts
+ 0:15:46.040,0:15:52.630
+ are going to the final well Derek just
+ 0:15:48.920,0:15:55.789
+ look at the celebrations and quite right
+ 0:15:52.630,0:15:55.789
+ [Applause]
+ 0:16:03.520,0:16:06.210
+ that famous
+ 0:16:13.660,0:16:16.850
+ [Applause]
+ 0:16:18.950,0:16:26.359
+ [Applause]
+ 0:16:33.950,0:16:41.180
+ [Applause]
+ 0:16:36.900,0:16:41.180
+ as a splendid ball from Ronaldo
+ 0:16:41.830,0:16:47.320
+ a Nicole it is and what a significant
+ 0:16:44.980,0:16:51.060
+ one they're locked together again he
+ 0:16:47.320,0:16:59.080
+ just chucked Renaldo
+ 0:16:51.060,0:16:59.080
+ [Applause]
+ 0:17:03.720,0:17:11.130
+ Alexandra
+ 0:17:06.610,0:17:11.130
+ waiting up the far post Gonzalo higuaín
+ 0:17:11.910,0:17:21.720
+ and a girl here accuracy with the header
+ 0:17:15.930,0:17:24.040
+ just what they need and scope from
+ 0:17:21.720,0:17:26.710
+ across
+ 0:17:24.040,0:17:29.650
+ fire again chores go
+ 0:17:26.710,0:17:31.780
+ well that wasn't a million miles away no
+ 0:17:29.650,0:17:34.800
+ he was close there's a decent effort
+ 0:17:31.780,0:17:34.800
+ they'll keep plugging away&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry><entry><title type="html">Manchester City vs Real Madrid | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/manchester-city-vs-real-madrid-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="Manchester City vs Real Madrid | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:48:56+05:30</published><updated>2020-02-17T19:48:56+05:30</updated><id>http://localhost:4000/2020/02/17/manchester-city-vs-real-madrid-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/manchester-city-vs-real-madrid-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Manchester City vs Real Madrid&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20&lt;br /&gt;
+Stadium : City of Manchester Stadium&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:01.270,0:00:09.090
+ [Music]
+ 0:00:06.379,0:00:11.490
+ well that really should be a night of
+ 0:00:09.090,0:00:14.580
+ football to look forward to here at the
+ 0:00:11.490,0:00:16.500
+ home of Manchester City telling ray here
+ 0:00:14.580,0:00:19.080
+ and the comedy position and I'm joined
+ 0:00:16.500,0:00:20.970
+ as always by Lee Dixon and it does
+ 0:00:19.080,0:00:23.220
+ appear to be advantage in Manchester
+ 0:00:20.970,0:00:26.010
+ City heading into the second leg of this
+ 0:00:23.220,0:00:28.769
+ Champions League semi-final tie it is
+ 0:00:26.010,0:00:31.199
+ Manchester City taking on Real Madrid
+ 0:00:28.769,0:00:33.329
+ thanks Derek while Manchester City just
+ 0:00:31.199,0:00:35.010
+ got a nose in front in that first leg I
+ 0:00:33.329,0:00:37.050
+ thought they played really really well
+ 0:00:35.010,0:00:39.239
+ thought if they concede an early goal
+ 0:00:37.050,0:00:41.510
+ could be very very interested in this
+ 0:00:39.239,0:00:41.510
+ game
+ 0:00:42.050,0:00:47.910
+ [Applause]
+ 0:00:44.610,0:00:48.860
+ [Music]
+ 0:00:47.910,0:01:10.299
+ [Applause]
+ 0:00:48.860,0:01:10.299
+ [Music]
+ 0:01:12.440,0:01:15.470
+ [Music]
+ 0:01:12.670,0:01:18.980
+ [Applause]
+ 0:01:15.470,0:01:20.710
+ [Music]
+ 0:01:18.980,0:01:23.140
+ introducing based
+ 0:01:20.710,0:01:25.600
+ players for manchester city Edison the
+ 0:01:23.140,0:01:28.090
+ Brazilian between the busts Alexander
+ 0:01:25.600,0:01:28.720
+ zinchenko starts with Kyle Walker as
+ 0:01:28.090,0:01:30.970
+ fullbacks
+ 0:01:28.720,0:01:33.310
+ Raheem Sterling place with three at
+ 0:01:30.970,0:01:36.930
+ Molly's on the flags and leading the
+ 0:01:33.310,0:01:36.930
+ line is Sergio agüero
+ 0:01:42.300,0:01:47.760
+ [Music]
+ 0:01:47.950,0:01:51.819
+ [Applause]
+ 0:01:48.670,0:01:51.819
+ [Music]
+ 0:02:03.540,0:02:09.000
+ and here's the starting eleven for Real
+ 0:02:06.060,0:02:11.340
+ Madrid Thibaut Courtois the Belgian will
+ 0:02:09.000,0:02:13.860
+ be in goal sent here Ramos plays with
+ 0:02:11.340,0:02:16.140
+ raphaël Varane at the back Luka Modric
+ 0:02:13.860,0:02:18.300
+ plays with Tony course in the center of
+ 0:02:16.140,0:02:24.720
+ the field and leading the line today is
+ 0:02:18.300,0:02:26.580
+ Karim Benzema and they get the ball
+ 0:02:24.720,0:02:30.380
+ rolling in the second leg of this
+ 0:02:26.580,0:02:30.380
+ Champions League semi-final
+ 0:02:33.099,0:02:44.150
+ now zine chenko david silva Rodri this
+ 0:02:39.290,0:02:48.189
+ with david silva alexander zinchenko the
+ 0:02:44.150,0:02:48.189
+ ball with the robbery Sabrina
+ 0:02:48.570,0:02:52.849
+ [Applause]
+ 0:02:50.880,0:02:54.980
+ stones
+ 0:02:52.849,0:02:56.660
+ the brainer
+ 0:02:54.980,0:02:58.040
+ they really look after the ball when
+ 0:02:56.660,0:03:01.400
+ they have it
+ 0:02:58.040,0:03:05.170
+ you can pick out the teammates
+ 0:03:01.400,0:03:10.740
+ and no-nonsense defensive clearance
+ 0:03:05.170,0:03:14.220
+ Walker Murad three Marez
+ 0:03:10.740,0:03:15.870
+ and the advantages with sitting holding
+ 0:03:14.220,0:03:17.720
+ on to the ball waiting for the cavalry
+ 0:03:15.870,0:03:20.020
+ to arrive
+ 0:03:17.720,0:03:24.100
+ making sure nothing untoward happened
+ 0:03:20.020,0:03:28.229
+ Silva now seen Jenko Walker
+ 0:03:24.100,0:03:28.229
+ [Applause]
+ 0:03:28.410,0:03:37.570
+ Walker possession lost intercepting
+ 0:03:32.560,0:03:40.570
+ [Applause]
+ 0:03:37.570,0:03:40.570
+ Marcello
+ 0:03:43.350,0:03:51.160
+ [Applause]
+ 0:03:45.950,0:03:51.160
+ stones are now Kevin de Bruyne
+ 0:03:51.760,0:03:56.700
+ robbery
+ 0:03:52.730,0:04:02.650
+ [Applause]
+ 0:03:56.700,0:04:05.290
+ the ball with Luka Modric hears kappa
+ 0:04:02.650,0:04:06.110
+ how he's using his strength to good
+ 0:04:05.290,0:04:11.030
+ effect
+ 0:04:06.110,0:04:14.270
+ [Applause]
+ 0:04:11.030,0:04:15.510
+ crossing possibilities and a half-baked
+ 0:04:14.270,0:04:22.119
+ clearance
+ 0:04:15.510,0:04:22.119
+ [Applause]
+ 0:04:27.060,0:04:31.890
+ [Applause]
+ 0:04:29.230,0:04:31.890
+ haha
+ 0:04:34.140,0:04:39.720
+ Jasin progress this might pay dividends
+ 0:04:37.220,0:04:40.850
+ and nothing positive comes of it
+ 0:04:39.720,0:04:45.670
+ unfortunately
+ 0:04:40.850,0:04:52.780
+ [Applause]
+ 0:04:45.670,0:04:55.980
+ miss mattes Walker another play for a
+ 0:04:52.780,0:04:55.980
+ Manchester City throw it
+ 0:04:59.230,0:05:02.130
+ yes Maris
+ 0:05:03.200,0:05:06.400
+ Chris chuckling no worries for the
+ 0:05:05.930,0:05:13.300
+ keeper
+ 0:05:06.400,0:05:17.710
+ [Applause]
+ 0:05:13.300,0:05:20.819
+ Walker fernandinho really sitting deep
+ 0:05:17.710,0:05:20.819
+ now that could be problematic
+ 0:05:22.820,0:05:27.450
+ a grant
+ 0:05:24.910,0:05:29.700
+ now zine Jenko
+ 0:05:27.450,0:05:32.770
+ sterling
+ 0:05:29.700,0:05:36.030
+ they took care of it defensively
+ 0:05:32.770,0:05:41.750
+ the ball with Luka Modric
+ 0:05:36.030,0:05:41.750
+ force couldn't hang on to it
+ 0:05:49.979,0:05:53.400
+ Alexandra zinchenko
+ 0:05:53.830,0:05:57.000
+ the mall with Rodri
+ 0:05:59.110,0:06:06.280
+ [Applause]
+ 0:06:04.020,0:06:09.120
+ robbery
+ 0:06:06.280,0:06:09.120
+ LaGuerta
+ 0:06:12.230,0:06:16.500
+ but all with the robbery
+ 0:06:14.310,0:06:18.630
+ Manchester City moving the ball with
+ 0:06:16.500,0:06:21.480
+ purpose
+ 0:06:18.630,0:06:24.180
+ opportunity to deliver the cross
+ 0:06:21.480,0:06:26.070
+ getting it just over the bar yeah he
+ 0:06:24.180,0:06:28.860
+ thinks he said he thinks he scored he's
+ 0:06:26.070,0:06:33.230
+ just over the bar
+ 0:06:28.860,0:06:33.230
+ [Applause]
+ 0:06:33.289,0:06:38.069
+ well that's the frustration of a manager
+ 0:06:35.910,0:06:40.020
+ right there watching his players come so
+ 0:06:38.069,0:06:46.839
+ close and being powerless to help
+ 0:06:40.020,0:06:46.839
+ [Applause]
+ 0:06:52.510,0:06:57.210
+ now can Selena
+ 0:06:55.260,0:07:01.560
+ the referee is decided the two
+ 0:06:57.210,0:07:06.260
+ additional minutes smaran order space on
+ 0:07:01.560,0:07:09.120
+ the flank a chance to women in Assam
+ 0:07:06.260,0:07:13.009
+ ever son routine say
+ 0:07:09.120,0:07:15.289
+ [Applause]
+ 0:07:13.009,0:07:16.280
+ and so the halftime whistle is sounded
+ 0:07:15.289,0:07:30.330
+ here in Manchester
+ 0:07:16.280,0:07:30.330
+ [Applause]
+ 0:07:41.100,0:07:45.060
+ and they get the ball rolling in the
+ 0:07:43.230,0:07:48.180
+ second leg of this Champions League
+ 0:07:45.060,0:07:50.390
+ semi-final opportunity to deliver the
+ 0:07:48.180,0:07:50.390
+ cross
+ 0:07:52.690,0:07:57.070
+ just over the bar yeah he thinks he said
+ 0:07:55.300,0:07:59.550
+ he thinks he scored and he's just over
+ 0:07:57.070,0:07:59.550
+ the bar
+ 0:08:02.270,0:08:13.539
+ [Music]
+ 0:08:10.210,0:08:16.060
+ and they're underway in the second half
+ 0:08:13.539,0:08:19.810
+ of this Champions League semi-final
+ 0:08:16.060,0:08:23.169
+ second leg Casimir oh the ball with Luka
+ 0:08:19.810,0:08:23.710
+ Modric well they've lost possession of
+ 0:08:23.169,0:08:27.120
+ the ball
+ 0:08:23.710,0:08:27.120
+ [Applause]
+ 0:08:27.420,0:08:31.740
+ and getting the ball forward is the key
+ 0:08:29.730,0:08:38.040
+ for manchester city here will there be
+ 0:08:31.740,0:08:41.450
+ any end product fernandinho
+ 0:08:38.040,0:08:46.520
+ rotary Sabrina
+ 0:08:41.450,0:08:48.860
+ Sergio agüero has it Silva sterling
+ 0:08:46.520,0:08:50.730
+ showing patience as well as persistence
+ 0:08:48.860,0:08:54.870
+ in the build up
+ 0:08:50.730,0:08:57.830
+ [Applause]
+ 0:08:54.870,0:08:57.830
+ Pasadena
+ 0:08:58.720,0:09:05.279
+ Aiden as our Benzema
+ 0:09:02.160,0:09:08.209
+ Modric intelligent threaded pass here
+ 0:09:05.279,0:09:08.209
+ bail
+ 0:09:08.870,0:09:12.910
+ and that was a very fine read
+ 0:09:16.190,0:09:21.370
+ damage Silva and now Kevin Des Moines
+ 0:09:26.430,0:09:30.249
+ a brighter
+ 0:09:28.089,0:09:32.189
+ of momentum about this Manchester City
+ 0:09:30.249,0:09:39.660
+ attack what can they do from here
+ 0:09:32.189,0:09:42.580
+ Benzema as our Benzema Aidan as are
+ 0:09:39.660,0:09:48.259
+ still passing it around with authority
+ 0:09:42.580,0:09:48.259
+ [Applause]
+ 0:09:49.190,0:09:56.570
+ Real Madrid get the throwing well Real
+ 0:09:53.120,0:10:02.639
+ Madrid are going to make the change now
+ 0:09:56.570,0:10:02.639
+ [Applause]
+ 0:10:08.640,0:10:20.890
+ raphaël Varane each girl has its mr.
+ 0:10:14.010,0:10:23.670
+ Sergio Ramos pisco is Ramos
+ 0:10:20.890,0:10:23.670
+ casimiro
+ 0:10:24.450,0:10:36.410
+ now here's a De Aza
+ 0:10:26.820,0:10:38.910
+ [Applause]
+ 0:10:36.410,0:10:44.800
+ the ball with robbery
+ 0:10:38.910,0:10:50.320
+ Alexandr zinchenko says he know that
+ 0:10:44.800,0:10:50.650
+ wide area is really opening up the blind
+ 0:10:50.320,0:10:53.980
+ are now
+ 0:10:50.650,0:10:56.250
+ [Applause]
+ 0:10:53.980,0:10:59.280
+ at times they make passing look easy
+ 0:10:56.250,0:11:03.060
+ avid elf above all played in rather well
+ 0:10:59.280,0:11:03.060
+ mr. Sergio Ramos
+ 0:11:03.200,0:11:05.890
+ Marcello
+ 0:11:07.220,0:11:17.060
+ he continues to make hey Mon tricks to
+ 0:11:14.690,0:11:19.730
+ give them security and breathing room
+ 0:11:17.060,0:11:20.470
+ what's a chance they have now of making
+ 0:11:19.730,0:11:25.500
+ it through
+ 0:11:20.470,0:11:28.420
+ [Applause]
+ 0:11:25.500,0:11:30.400
+ the laser replay I never liked rebound
+ 0:11:28.420,0:11:32.260
+ goals off goalkeepers the defenders
+ 0:11:30.400,0:11:32.920
+ should be there probably would have been
+ 0:11:32.260,0:11:35.140
+ my fault
+ 0:11:32.920,0:11:37.510
+ on that occasion his defenders went
+ 0:11:35.140,0:11:39.870
+ missing let's have another view of that
+ 0:11:37.510,0:11:39.870
+ goal
+ 0:11:45.650,0:11:49.910
+ well the manager knows the importance of
+ 0:11:47.839,0:11:51.470
+ that goal he also knows that you're at
+ 0:11:49.910,0:11:53.860
+ your most vulnerable just after you've
+ 0:11:51.470,0:11:53.860
+ scored
+ 0:12:00.399,0:12:04.510
+ substitution for Real Madrid
+ 0:12:07.280,0:12:15.800
+ one is the aggregate lead doleful ray 
+ 0:12:10.980,0:12:15.800
+ on the trip number ten modules
+ 0:12:18.560,0:12:23.290
+ some to long range of the city LaGuerta
+ 0:12:23.420,0:12:29.049
+ just couldn't keep the ball
+ 0:12:25.710,0:12:29.049
+ [Applause]
+ 0:12:29.389,0:12:35.439
+ nice car
+ 0:12:31.089,0:12:38.189
+ raphaël Varane ten minutes to left for
+ 0:12:35.439,0:12:38.189
+ play in this match
+ 0:12:40.690,0:12:50.899
+ mrs. Moran here's Ramos Modric camera
+ 0:12:47.020,0:12:54.829
+ how he's got space
+ 0:12:50.899,0:12:56.350
+ as with Vinicius jr. a change in the
+ 0:12:54.829,0:13:06.009
+ offing for city
+ 0:12:56.350,0:13:06.009
+ [Applause]
+ 0:13:08.090,0:13:15.970
+ [Applause]
+ 0:13:10.810,0:13:17.680
+ sterling sterling takes it forward and
+ 0:13:15.970,0:13:20.160
+ it's gone out for a throw into real
+ 0:13:17.680,0:13:20.160
+ madrid
+ 0:13:23.020,0:13:27.790
+ casimiro raphaël Varane
+ 0:13:28.840,0:13:37.190
+ Mockridge
+ 0:13:30.780,0:13:40.010
+ maybe she was junior Vinicius junior
+ 0:13:37.190,0:13:46.000
+ forcing opportunity
+ 0:13:40.010,0:13:48.189
+ [Applause]
+ 0:13:46.000,0:13:50.319
+ the electronic wound has been held aloft
+ 0:13:48.189,0:13:55.620
+ to traditional minutes here
+ 0:13:50.319,0:13:55.620
+ kundo on one minute remaining
+ 0:13:56.590,0:14:00.670
+ but getting the ball forward is the key
+ 0:13:58.660,0:14:03.600
+ for Manchester City here will there be
+ 0:14:00.670,0:14:03.600
+ any end product
+ 0:14:04.830,0:14:11.020
+ that's it official now Real Madrid have
+ 0:14:08.470,0:14:12.580
+ made it to the final well tear it just
+ 0:14:11.020,0:14:15.550
+ look at the celebrations and quite
+ 0:14:12.580,0:14:17.410
+ rightly so sometimes semi-finals can be
+ 0:14:15.550,0:14:19.690
+ a little bit too much for players one
+ 0:14:17.410,0:14:21.970
+ side has to lose one side goes to the
+ 0:14:19.690,0:14:23.980
+ final I'm very envious of those players
+ 0:14:21.970,0:14:25.810
+ look at them enjoying this moment still
+ 0:14:23.980,0:14:29.100
+ work to be done before they peak that
+ 0:14:25.810,0:14:29.100
+ famous trophy though
+ 0:14:30.220,0:14:34.940
+ [Applause]
+ 0:14:40.690,0:14:46.159
+ [Applause]
+ 0:14:49.530,0:14:53.980
+ and they get the ball rolling in the
+ 0:14:52.150,0:14:57.040
+ second leg of this Champions League
+ 0:14:53.980,0:14:59.280
+ semi-final opportunity to deliver the
+ 0:14:57.040,0:14:59.280
+ cross
+ 0:15:01.320,0:15:05.700
+ it just over the bar yeah he thinks he's
+ 0:15:03.960,0:15:12.650
+ in he thinks he's scored and he's just
+ 0:15:05.700,0:15:12.650
+ over the bar he continues to make hay
+ 0:15:13.410,0:15:16.249
+ mantra
+ 0:15:17.240,0:15:22.040
+ and that time they go to give them
+ 0:15:19.850,0:15:24.619
+ security and breathing room
+ 0:15:22.040,0:15:26.740
+ what's a chance they have now of baking
+ 0:15:24.619,0:15:26.740
+ it&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry><entry><title type="html">Liverpool vs Atlético Madrid | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/liverpool-vs-atletico-madrid-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="Liverpool vs Atlético Madrid | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:47:11+05:30</published><updated>2020-02-17T19:47:11+05:30</updated><id>http://localhost:4000/2020/02/17/liverpool-vs-atletico-madrid-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/liverpool-vs-atletico-madrid-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Liverpool vs Atlético Madrid&lt;br /&gt;
+UEFA Champions League Round of 16 | Leg 2 of 2 | 2019/20&lt;br /&gt;
+Stadium: Anfield&lt;/p&gt;
+
+&lt;p&gt;The head-to-head between Atlético Madrid and Liverpool in Europe is perfectly balanced with one win each and two draws (4 goals each).&lt;/p&gt;
+
+&lt;p&gt;However, Atlético eliminated Liverpool in their only knockout tie, it was in the 2009/10 Europa League semi-finals, a tournament Atlético won, beating Fulham 2-1 in the final.&lt;/p&gt;
+
+&lt;p&gt;Atlético Madrid and Liverpool’s only previous Champions League encounters came in the 2008/09 group stages – both games ended 1-1. Liverpool are winless in their last five away games against Spanish opposition in Europe, losing four (D1).&lt;/p&gt;
+
+&lt;p&gt;Their last victory dates back to the Champions League round of 16 in 2008/09, against Real Madrid at Santiago Bernabeu (1-0).&lt;/p&gt;
+
+&lt;p&gt;Liverpool have always progressed against Spanish opposition in a two-legged Champions League tie (3/3): 2-2 on away goals v Barcelona (2006/07 round of 16), 5-0 on aggregate v Real Madrid (2008/09 round of 16), 4-3 v Barcelona (2018/19 semi-finals).&lt;/p&gt;
+
+&lt;p&gt;Liverpool’s only previous competitive match at the Wanda Metropolitano was last season’s Champions League final against Tottenham – Jürgen Klopp’s men won 2-0.&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:00.880,0:00:08.940
+ [Music]
+ 0:00:06.259,0:00:10.530
+ well the rain has been lashing down and
+ 0:00:08.940,0:00:13.500
+ the build-up to the game and it's still
+ 0:00:10.530,0:00:15.330
+ lashing down here at Anfield behind
+ 0:00:13.500,0:00:17.970
+ Derrick ray here on the corner position
+ 0:00:15.330,0:00:20.250
+ joined by Lee Dixon what we have to look
+ 0:00:17.970,0:00:23.070
+ forward to is the second leg of this
+ 0:00:20.250,0:00:26.580
+ Champions League semi-final it is
+ 0:00:23.070,0:00:28.560
+ Liverpool against Atletico Madrid thanks
+ 0:00:26.580,0:00:31.260
+ Derek yes a good first leg wasn't it
+ 0:00:28.560,0:00:33.750
+ plenty of action both ends nothing to
+ 0:00:31.260,0:00:35.100
+ choose between the two teams we got some
+ 0:00:33.750,0:00:37.620
+ goals will we get some more tonight
+ 0:00:35.100,0:00:39.340
+ pretty sure we will hopefully we're not
+ 0:00:37.620,0:00:40.710
+ disappointed
+ 0:00:39.340,0:00:42.740
+ [Music]
+ 0:00:40.710,0:00:47.600
+ [Applause]
+ 0:00:42.740,0:00:48.470
+ [Music]
+ 0:00:47.600,0:01:19.700
+ [Applause]
+ 0:00:48.470,0:01:19.700
+ [Music]
+ 0:01:20.180,0:01:24.290
+ start the game the highly rated
+ 0:01:22.130,0:01:26.780
+ Brazilian Alison begins between the
+ 0:01:24.290,0:01:29.210
+ boasts Virgil van Dijk plays with Joe
+ 0:01:26.780,0:01:31.790
+ Gomez in the fallback positions Muhammad
+ 0:01:29.210,0:01:33.920
+ Salla plays with Sandy of money out wide
+ 0:01:31.790,0:01:38.260
+ and leading the attack today as the
+ 0:01:33.920,0:01:38.260
+ ultimate racing machine Roberto Firmino
+ 0:01:43.550,0:01:47.450
+ words that resonate with football fans
+ 0:01:46.250,0:01:49.820
+ the world over
+ 0:01:47.450,0:01:52.280
+ whether Liverpool supporters or not this
+ 0:01:49.820,0:01:54.320
+ is an field well it is and that is the
+ 0:01:52.280,0:01:58.899
+ cop behind the goal probably one of most
+ 0:01:54.320,0:01:58.899
+ famous iconic stands in world football
+ 0:02:03.600,0:02:08.490
+ and this is the starting lineup for
+ 0:02:05.610,0:02:08.940
+ atlético the young black gets the Norden
+ 0:02:08.490,0:02:11.520
+ go
+ 0:02:08.940,0:02:13.530
+ Thomas passe starts alongside soul in
+ 0:02:11.520,0:02:15.810
+ central midfield and so many different
+ 0:02:13.530,0:02:19.220
+ ways to configure an attack in this case
+ 0:02:15.810,0:02:22.650
+ it'll be two men out front
+ 0:02:19.220,0:02:22.650
+ [Applause]
+ 0:02:22.709,0:02:27.069
+ and they get the ball rolling in the
+ 0:02:25.269,0:02:31.799
+ second leg of this Champions League
+ 0:02:27.069,0:02:31.799
+ semi-final Henderson
+ 0:02:32.830,0:02:36.510
+ a bit sloppy in possession
+ 0:02:39.480,0:02:46.080
+ sour
+ 0:02:41.910,0:02:49.790
+ good numerical situation Morris are in
+ 0:02:46.080,0:02:49.790
+ possession ball lost
+ 0:02:52.239,0:02:55.109
+ here's oxlade-chamberlain
+ 0:02:56.900,0:03:01.120
+ why not oh now
+ 0:02:59.319,0:03:03.579
+ really good reading of the game to win
+ 0:03:01.120,0:03:10.079
+ possession back and no-nonsense
+ 0:03:03.579,0:03:10.079
+ defensive clearance foul
+ 0:03:10.650,0:03:13.050
+ until they mean business on this
+ 0:03:12.390,0:03:18.410
+ occasion
+ 0:03:13.050,0:03:20.300
+ [Applause]
+ 0:03:18.410,0:03:23.140
+ he knows the defensive side of the game
+ 0:03:20.300,0:03:23.140
+ so while Saanich
+ 0:03:24.260,0:03:27.220
+ will they have it again
+ 0:03:29.860,0:03:37.390
+ by now dome Robertson oxlade-chamberlain
+ 0:03:35.700,0:03:40.320
+ wine Alden
+ 0:03:37.390,0:03:40.320
+ here's oxlade-chamberlain
+ 0:03:46.470,0:03:49.470
+ Thomas
+ 0:03:50.710,0:03:54.810
+ am over-promised on the flank
+ 0:03:55.060,0:04:00.400
+ okay crossing an opportunity with the
+ 0:03:58.239,0:04:03.430
+ header but not troubling the goalkeeper
+ 0:04:00.400,0:04:06.120
+ atole well I say one thing technique and
+ 0:04:03.430,0:04:06.120
+ he didn't have any
+ 0:04:22.280,0:04:26.800
+ by Nardo
+ 0:04:24.430,0:04:30.030
+ oxlade-chamberlain
+ 0:04:26.800,0:04:34.560
+ it's what Roberto Firmino why now the
+ 0:04:30.030,0:04:34.560
+ ball lost by Liverpool
+ 0:04:36.000,0:04:40.419
+ [Applause]
+ 0:04:38.050,0:04:42.810
+ an inability to keep hold of the ball
+ 0:04:40.419,0:04:42.810
+ there
+ 0:04:52.439,0:04:58.619
+ knocking as around looking to carve out
+ 0:04:54.659,0:05:00.809
+ a chance oxlade-chamberlain and crossed
+ 0:04:58.619,0:05:06.059
+ towards Roberto feel Nino at the back
+ 0:05:00.809,0:05:06.730
+ post and punched away effective
+ 0:05:06.059,0:05:09.090
+ challenge
+ 0:05:06.730,0:05:14.480
+ [Applause]
+ 0:05:09.090,0:05:14.480
+ man a Roberto Firmino my fuzziness
+ 0:05:15.380,0:05:19.920
+ Athletico have given us away and the
+ 0:05:18.900,0:05:25.879
+ danger clear
+ 0:05:19.920,0:05:27.710
+ [Applause]
+ 0:05:25.879,0:05:31.950
+ robertson
+ 0:05:27.710,0:05:33.550
+ Gojo Van Dyke Henderson
+ 0:05:31.950,0:05:37.209
+ Andrew Robertson
+ 0:05:33.550,0:05:37.209
+ [Applause]
+ 0:05:37.510,0:05:43.430
+ Sonia managed Ross
+ 0:05:40.320,0:05:46.430
+ Ross needed to be better than that one
+ 0:05:43.430,0:05:46.430
+ Robertson
+ 0:05:47.800,0:05:55.170
+ robertson angled for salla
+ 0:05:50.919,0:05:56.970
+ well the clearance half-hearted
+ 0:05:55.170,0:05:59.000
+ [Applause]
+ 0:05:56.970,0:06:06.829
+ an atlético will get the throwing
+ 0:05:59.000,0:06:06.829
+ [Applause]
+ 0:06:08.630,0:06:17.920
+ Barea Thomas now not ass up
+ 0:06:14.270,0:06:17.920
+ and that was a very fine read
+ 0:06:20.390,0:06:36.789
+ [Applause]
+ 0:06:27.969,0:06:38.829
+ it is to be a throwing well that is a
+ 0:06:36.789,0:06:42.620
+ defenders job to come to the rescue
+ 0:06:38.829,0:06:44.700
+ a good-looking move cocaine
+ 0:06:42.620,0:06:52.319
+ it's Wetzel
+ 0:06:44.700,0:06:52.319
+ [Applause]
+ 0:06:54.390,0:06:57.390
+ Felipe
+ 0:06:58.559,0:07:03.900
+ Sowell might really be able to trouble
+ 0:07:02.339,0:07:06.300
+ them here
+ 0:07:03.900,0:07:07.800
+ well far from the cross he had in mind
+ 0:07:06.300,0:07:25.439
+ goal kick it is
+ 0:07:07.800,0:07:25.439
+ [Applause]
+ 0:07:29.770,0:07:35.080
+ mr. Saleh
+ 0:07:30.810,0:07:37.180
+ [Applause]
+ 0:07:35.080,0:07:39.800
+ so diamante now
+ 0:07:37.180,0:07:43.150
+ I'm not brings to an end the first half
+ 0:07:39.800,0:07:43.150
+ here as Anfield
+ 0:07:51.180,0:07:55.959
+ [Applause]
+ 0:08:06.139,0:08:10.069
+ and they get the ball rolling in the
+ 0:08:08.240,0:08:13.030
+ second leg of this Champions League
+ 0:08:10.069,0:08:13.030
+ semi-final
+ 0:08:16.620,0:08:21.150
+ and opportunity with the header but not
+ 0:08:18.990,0:08:22.229
+ troubling the goalkeeper Natali well I
+ 0:08:21.150,0:08:25.280
+ say one thing
+ 0:08:22.229,0:08:25.280
+ technique needed
+ 0:08:34.400,0:08:39.600
+ and they're underway in the second half
+ 0:08:37.500,0:08:41.590
+ of this Champions League semi-final
+ 0:08:39.600,0:08:44.700
+ second leg
+ 0:08:41.590,0:08:44.700
+ why not
+ 0:08:44.769,0:08:50.720
+ useful looking ball
+ 0:08:47.180,0:08:56.640
+ Vardhan he goes excellent challenge
+ 0:08:50.720,0:08:59.100
+ [Applause]
+ 0:08:56.640,0:09:02.409
+ Barea merasa
+ 0:08:59.100,0:09:02.409
+ [Applause]
+ 0:09:02.450,0:09:10.100
+ still passing it around with authority
+ 0:09:05.740,0:09:12.620
+ sure al fey leaks and using a strength
+ 0:09:10.100,0:09:13.300
+ to shield the ball losing possession
+ 0:09:12.620,0:09:16.950
+ here
+ 0:09:13.300,0:09:16.950
+ [Applause]
+ 0:09:18.110,0:09:20.740
+ why not
+ 0:09:25.600,0:09:31.540
+ and the balls gone it's the
+ 0:09:28.310,0:09:34.100
+ high-pressure high-intensity approach
+ 0:09:31.540,0:09:38.750
+ moving the ball nicely looking for that
+ 0:09:34.100,0:09:42.470
+ final pass proto Van Dyke
+ 0:09:38.750,0:09:44.780
+ Henderson auctions around him Alexander
+ 0:09:42.470,0:09:46.670
+ Arnold has it
+ 0:09:44.780,0:09:50.060
+ now they were clearly on the receiving
+ 0:09:46.670,0:09:51.860
+ end so a free-kick is next
+ 0:09:50.060,0:09:54.270
+ he has dished out a yellow card here
+ 0:09:51.860,0:09:57.529
+ well it's not malicious just clumsy
+ 0:09:54.270,0:09:57.529
+ [Applause]
+ 0:09:59.830,0:10:04.020
+ they decided but now is the time to go
+ 0:10:02.410,0:10:18.100
+ to the bench
+ 0:10:04.020,0:10:20.510
+ [Applause]
+ 0:10:18.100,0:10:22.870
+ Henderson it's going to be an Atletico
+ 0:10:20.510,0:10:26.570
+ throwing
+ 0:10:22.870,0:10:29.860
+ [Applause]
+ 0:10:26.570,0:10:29.860
+ Morris are in possession
+ 0:10:30.720,0:10:37.250
+ Felipe trippy Ana Correia
+ 0:10:37.610,0:10:44.060
+ Morris ah-choo al Felix
+ 0:10:41.640,0:10:45.210
+ [Applause]
+ 0:10:44.060,0:10:48.390
+ Correia
+ 0:10:45.210,0:10:50.760
+ he has been deemed to be offside not by
+ 0:10:48.390,0:10:53.930
+ much li brilliant brilliant officiating
+ 0:10:50.760,0:10:53.930
+ that his look at that spot on
+ 0:11:00.040,0:11:04.079
+ Andrew Robertson has lost the ball
+ 0:11:05.180,0:11:10.360
+ Korea
+ 0:11:07.939,0:11:14.379
+ and now trivia
+ 0:11:10.360,0:11:20.910
+ now Korea and morasses of the vicinity a
+ 0:11:14.379,0:11:20.910
+ very effective clearance Korea
+ 0:11:31.720,0:11:36.670
+ salable know that the past needed to be
+ 0:11:34.070,0:11:36.670
+ slightly better
+ 0:11:39.570,0:11:44.570
+ Henderson
+ 0:11:41.580,0:11:44.570
+ Alexander hanno
+ 0:11:46.960,0:11:49.770
+ your smell not
+ 0:11:50.460,0:11:54.410
+ and Ike Lamanna
+ 0:11:55.790,0:12:02.620
+ Melda and a son
+ 0:11:59.300,0:12:04.730
+ they do pass the ball with authority
+ 0:12:02.620,0:12:07.370
+ Alexander Oh No
+ 0:12:04.730,0:12:09.730
+ yoky was ball across deliver too close
+ 0:12:07.370,0:12:09.730
+ to him
+ 0:12:10.000,0:12:13.220
+ [Applause]
+ 0:12:13.710,0:12:24.930
+ being pressed and pressed hi you've got
+ 0:12:21.630,0:12:28.350
+ to keep the ball a bit better than that
+ 0:12:24.930,0:12:29.920
+ and the emphasis is on creativity
+ 0:12:28.350,0:12:31.660
+ opportunity is his
+ 0:12:29.920,0:12:35.370
+ [Applause]
+ 0:12:31.660,0:12:35.370
+ he succeeds in clearing it
+ 0:12:36.570,0:12:45.510
+ Alexander oh no mrs. Saleh Milner
+ 0:12:41.830,0:12:45.510
+ Henderson kameena
+ 0:12:45.720,0:12:55.620
+ and here's Robertson Satyam Annie nap a
+ 0:12:49.700,0:12:58.820
+ good and fair challenge inside the final
+ 0:12:55.620,0:12:58.820
+ five minutes now
+ 0:12:59.320,0:13:07.410
+ giraffe annex Trippier delightful bars
+ 0:13:05.340,0:13:16.970
+ and the cross not quite imaginative
+ 0:13:07.410,0:13:19.710
+ enough lalana Henderson Andrew Robertson
+ 0:13:16.970,0:13:22.150
+ Henderson has it
+ 0:13:19.710,0:13:24.279
+ now lalana
+ 0:13:22.150,0:13:27.990
+ we've had the official word there will
+ 0:13:24.279,0:13:30.070
+ be a minimum of two added MINIX
+ 0:13:27.990,0:13:32.080
+ Liverpool trying to click into an
+ 0:13:30.070,0:13:35.440
+ attacking gear with the game level in
+ 0:13:32.080,0:13:38.310
+ the closing moments and a harmless dross
+ 0:13:35.440,0:13:38.310
+ coupled up
+ 0:13:39.920,0:13:47.709
+ that is that after 90 minutes they are
+ 0:13:43.160,0:13:47.709
+ level and extra time is coming up
+ 0:13:50.150,0:13:58.080
+ [Applause]
+ 0:14:01.500,0:14:05.460
+ and they get the ball rolling in the
+ 0:14:03.660,0:14:08.030
+ second leg of this Champions League
+ 0:14:05.460,0:14:08.030
+ semi-final
+ 0:14:12.140,0:14:16.640
+ and opportunity with the header but not
+ 0:14:14.330,0:14:19.670
+ troubling the goalkeeper Natali well as
+ 0:14:16.640,0:14:25.000
+ say one thing technique needed options
+ 0:14:19.670,0:14:25.000
+ around him Alexander Arnold has it
+ 0:14:25.760,0:14:29.610
+ the referee has dished out a yellow card
+ 0:14:28.190,0:14:32.799
+ here well it's not malicious
+ 0:14:29.610,0:14:32.799
+ [Music]
+ 0:14:35.110,0:14:42.719
+ [Music]
+ 0:14:43.620,0:14:49.710
+ this has the potential to stretch sinews
+ 0:14:46.410,0:14:54.380
+ and minds tiredness can be a factor as
+ 0:14:49.710,0:14:54.380
+ the first period of extra time commences
+ 0:14:57.360,0:15:00.319
+ here's mail now
+ 0:15:00.800,0:15:06.940
+ it's what Roberto Firmino poor attempt
+ 0:15:04.160,0:15:06.940
+ to the pass really
+ 0:15:12.330,0:15:17.860
+ it's what Roberto Firmino
+ 0:15:14.470,0:15:19.890
+ [Applause]
+ 0:15:17.860,0:15:25.550
+ my name
+ 0:15:19.890,0:15:29.209
+ clears his loins he's enjoying space
+ 0:15:25.550,0:15:34.140
+ Alexander Arnold and return to summer
+ 0:15:29.209,0:15:38.670
+ will he play it in still level here but
+ 0:15:34.140,0:15:41.700
+ the pressure escalating go to film
+ 0:15:38.670,0:15:47.070
+ Edomite fanciness making sure nothing
+ 0:15:41.700,0:15:48.780
+ untoward happened Mohamed Salah now
+ 0:15:47.070,0:15:54.490
+ that's clear
+ 0:15:48.780,0:15:56.980
+ [Applause]
+ 0:15:54.490,0:16:00.060
+ trivia
+ 0:15:56.980,0:16:03.620
+ we found some Korea
+ 0:16:00.060,0:16:03.620
+ my movements from Murata
+ 0:16:04.400,0:16:09.320
+ I'm a god to give them security and
+ 0:16:08.240,0:16:11.720
+ breathing room
+ 0:16:09.320,0:16:13.400
+ what's a chance they have now of making
+ 0:16:11.720,0:16:17.569
+ it true
+ 0:16:13.400,0:16:19.919
+ [Applause]
+ 0:16:17.569,0:16:21.540
+ well here we can see Derek from this
+ 0:16:19.919,0:16:23.100
+ better angle it's all about the
+ 0:16:21.540,0:16:25.410
+ technique when your volley in a ball
+ 0:16:23.100,0:16:27.179
+ it's all about timing let it get to the
+ 0:16:25.410,0:16:29.429
+ right place for your foot to make the
+ 0:16:27.179,0:16:36.029
+ connection and there you go in the back
+ 0:16:29.429,0:16:37.829
+ of the net well I think the coach can
+ 0:16:36.029,0:16:41.689
+ feel the game slipping away here he's
+ 0:16:37.829,0:16:41.689
+ showing his frustration on the sidelines
+ 0:16:42.710,0:16:47.849
+ [Applause]
+ 0:16:48.790,0:16:59.330
+ one-nil then the first period of extra
+ 0:16:56.030,0:17:17.449
+ time is over 15 minutes left maybe after
+ 0:16:59.330,0:17:19.280
+ that penalty and they get the ball
+ 0:17:17.449,0:17:23.110
+ rolling in the second leg of this
+ 0:17:19.280,0:17:23.110
+ Champions League semi-final
+ 0:17:26.700,0:17:31.200
+ an opportunity with the header but not
+ 0:17:29.040,0:17:34.200
+ troubling the goalkeeper at Olli well I
+ 0:17:31.200,0:17:38.210
+ say one thing technique needed options
+ 0:17:34.200,0:17:39.930
+ around him Alexander Arnold has it
+ 0:17:38.210,0:17:42.600
+ [Applause]
+ 0:17:39.930,0:17:48.480
+ the referee has dished out a yellow card
+ 0:17:42.600,0:17:50.100
+ here well it's not malicious just fine
+ 0:17:48.480,0:17:53.830
+ movements from Bharata
+ 0:17:50.100,0:17:53.830
+ [Applause]
+ 0:17:55.030,0:17:59.750
+ timely goal to give them security and
+ 0:17:58.640,0:18:02.330
+ breathing room
+ 0:17:59.750,0:18:15.080
+ what's a chance they have now of making
+ 0:18:02.330,0:18:17.750
+ it so many now having to play through
+ 0:18:15.080,0:18:26.810
+ the pain barrier underway in the second
+ 0:18:17.750,0:18:29.590
+ period of extra time attending here is
+ 0:18:26.810,0:18:29.590
+ defensive chores
+ 0:18:30.540,0:18:36.749
+ so a throw-in here
+ 0:18:32.170,0:18:36.749
+ [Applause]
+ 0:18:40.610,0:18:44.049
+ and here's levar
+ 0:18:44.270,0:18:49.270
+ ready at the far post more Lassa here
+ 0:18:47.530,0:18:51.030
+ the key for making sure that was pushed
+ 0:18:49.270,0:18:53.230
+ well away from danger
+ 0:18:51.030,0:18:55.620
+ Politico get the free-kick decision
+ 0:18:53.230,0:18:55.620
+ their way
+ 0:18:58.140,0:19:02.239
+ [Applause]
+ 0:19:06.970,0:19:10.220
+ [Applause]
+ 0:19:24.460,0:19:34.349
+ [Applause]
+ 0:19:38.759,0:19:41.510
+ and it's going out of play goal kick
+ 0:19:40.799,0:19:44.799
+ coming up
+ 0:19:41.510,0:19:44.799
+ [Applause]
+ 0:19:49.370,0:20:02.520
+ [Applause]
+ 0:20:09.120,0:20:12.290
+ [Applause]
+ 0:20:15.940,0:20:22.520
+ so all Morris are in possession run it
+ 0:20:19.930,0:20:25.100
+ like never simply an intercepted
+ 0:20:22.520,0:20:27.179
+ Murata
+ 0:20:25.100,0:20:29.669
+ [Applause]
+ 0:20:27.179,0:20:30.360
+ across the byline a goal kick as a
+ 0:20:29.669,0:20:34.070
+ result
+ 0:20:30.360,0:20:34.070
+ [Applause]
+ 0:20:42.540,0:20:45.839
+ [Applause]
+ 0:20:48.250,0:20:58.589
+ [Applause]
+ 0:21:03.610,0:21:10.050
+ it's where soul Thomas saw all
+ 0:21:11.900,0:21:15.220
+ fruitful looking attack
+ 0:21:18.020,0:21:21.399
+ Lamarr
+ 0:21:19.080,0:21:24.619
+ [Applause]
+ 0:21:21.399,0:21:26.950
+ the referees verdict is three additional
+ 0:21:24.619,0:21:26.950
+ minutes
+ 0:21:27.530,0:21:31.430
+ attacking play you rather hope you'll
+ 0:21:29.720,0:21:32.450
+ get the decision in your favor but
+ 0:21:31.430,0:21:34.550
+ offside here
+ 0:21:32.450,0:21:35.420
+ yeah the defense got that spot on and so
+ 0:21:34.550,0:21:39.479
+ did the linesman
+ 0:21:35.420,0:21:39.479
+ [Applause]
+ 0:21:44.410,0:21:58.979
+ [Applause]
+ 0:22:01.380,0:22:06.210
+ a chance maybe from the white position
+ 0:22:03.690,0:22:09.510
+ [Applause]
+ 0:22:06.210,0:22:12.380
+ and space for the cross and he's got the
+ 0:22:09.510,0:22:15.090
+ beating of his opponent
+ 0:22:12.380,0:22:17.999
+ danger aversion for now
+ 0:22:15.090,0:22:20.820
+ that's it official now and clinical
+ 0:22:17.999,0:22:22.409
+ Madrid have reached the final why when
+ 0:22:20.820,0:22:24.929
+ you start your journey at the start of
+ 0:22:22.409,0:22:26.610
+ this competition you look forward to the
+ 0:22:24.929,0:22:28.110
+ final you might not think you're going
+ 0:22:26.610,0:22:30.509
+ to get there but now all of a sudden
+ 0:22:28.110,0:22:32.639
+ it's become a reality extra time winner
+ 0:22:30.509,0:22:35.630
+ that'll do me in to the final with
+ 0:22:32.639,0:22:43.470
+ confidence can they pick the trophy
+ 0:22:35.630,0:22:43.470
+ [Applause]
+ 0:22:52.930,0:22:56.160
+ [Applause]
+ 0:22:59.800,0:23:03.760
+ and they get the ball rolling in the
+ 0:23:01.930,0:23:06.300
+ second leg of this Champions League
+ 0:23:03.760,0:23:06.300
+ semi-final
+ 0:23:10.440,0:23:14.790
+ an opportunity with the header but not
+ 0:23:12.630,0:23:17.850
+ troubling the goalkeeper atole well I
+ 0:23:14.790,0:23:19.250
+ say one thing technique needed options
+ 0:23:17.850,0:23:23.000
+ around him
+ 0:23:19.250,0:23:23.000
+ Alexander Arnold has it
+ 0:23:23.270,0:23:29.480
+ the referee has dished out a yellow card
+ 0:23:26.220,0:23:29.480
+ here well it's not malicious
+ 0:23:31.460,0:23:35.470
+ fine movements from Maratha
+ 0:23:38.400,0:23:43.350
+ I'm a timely goal to give them security
+ 0:23:41.430,0:23:45.930
+ and breathing room
+ 0:23:43.350,0:23:48.050
+ what's a chance they have down of making
+ 0:23:45.930,0:23:48.050
+ it&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry><entry><title type="html">PSG vs Dortmund | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/psg-vs-dortmund-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="PSG vs Dortmund | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:44:54+05:30</published><updated>2020-02-17T19:44:54+05:30</updated><id>http://localhost:4000/2020/02/17/psg-vs-dortmund-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/psg-vs-dortmund-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;p&gt;PSG vs Dortmund&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20&lt;br /&gt;
+Stadium : Parc des Princes&lt;/p&gt;
+
+&lt;p&gt;The only previous encounter between Borussia Dortmund and Paris SG was in the 2010/11 Europa League group stages – both games ended in a draw (1-1 in Dortmund, 0-0 in Paris).&lt;/p&gt;
+
+&lt;p&gt;Borussia Dortmund have always scored at least two goals in their six Champions League home games against French clubs. However, among the 16 teams qualified for this season’s knockout phase, no team scored fewer goals in the group stages (8).&lt;/p&gt;
+
+&lt;p&gt;Borussia Dortmund have made it past the Champions League round of 16 only once in the last five seasons. It was in 2016/17 under current Paris SG manager Thomas Tuchel – they were eventually knocked out by Monaco in the quarter-finals.&lt;/p&gt;
+
+&lt;p&gt;Borussia Dortmund have lost four of their last six Champions League home games in the knockout phase (W2), including the last two (2-3 v Monaco in 2016/17, 0-1 v Tottenham in 2018/19).&lt;/p&gt;
+
+&lt;p&gt;Borussia Dortmund’s last 22 goals in the Champions League have all come from open play, the longest current run among the remaining sides in the competition.&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:01.040,0:00:08.670
+ [Music]
+ 0:00:05.870,0:00:11.030
+ and welcome on what is a rather
+ 0:00:08.670,0:00:13.740
+ miserable night here at the Patna brass
+ 0:00:11.030,0:00:15.990
+ I'm Derrick ray joined here on the
+ 0:00:13.740,0:00:18.600
+ commentary box as always by Lee Dixon
+ 0:00:15.990,0:00:20.310
+ and Borussia Dortmund to have real what
+ 0:00:18.600,0:00:22.980
+ to do in the second leg of this
+ 0:00:20.310,0:00:24.930
+ Champions League semi-final it Spanish
+ 0:00:22.980,0:00:26.010
+ there's your man against Borussia
+ 0:00:24.930,0:00:27.960
+ Dortmund
+ 0:00:26.010,0:00:29.369
+ yeah thanks Derek Dortmund with plenty
+ 0:00:27.960,0:00:31.890
+ of work to do after that first leg
+ 0:00:29.369,0:00:34.170
+ thanks Derek well plenty of work to do
+ 0:00:31.890,0:00:35.579
+ if they want to progress far from over
+ 0:00:34.170,0:00:36.899
+ though they can Nick your goal in the
+ 0:00:35.579,0:00:37.620
+ first half and get a bit of momentum
+ 0:00:36.899,0:00:39.420
+ going
+ 0:00:37.620,0:00:41.670
+ I think they'll fancy their chances of
+ 0:00:39.420,0:00:44.190
+ going through
+ 0:00:41.670,0:00:47.620
+ [Applause]
+ 0:00:44.190,0:00:48.480
+ [Music]
+ 0:00:47.620,0:01:19.510
+ [Applause]
+ 0:00:48.480,0:01:22.720
+ [Music]
+ 0:01:19.510,0:01:25.330
+ team looks like this the Costa Rican
+ 0:01:22.720,0:01:27.730
+ Keylor Navas gets the Norden go Thiago
+ 0:01:25.330,0:01:29.890
+ Silva plays alongside marquinhos in
+ 0:01:27.730,0:01:33.510
+ central defence and up front Killian
+ 0:01:29.890,0:01:36.639
+ imbaba plays with Marui cardi up front
+ 0:01:33.510,0:01:36.639
+ [Applause]
+ 0:01:41.770,0:01:47.570
+ interesting to compare and contrast PSG
+ 0:01:44.450,0:01:48.830
+ now with PSG a few years ago li you
+ 0:01:47.570,0:01:50.780
+ played against them in a pretty big
+ 0:01:48.830,0:01:52.940
+ contest before the big money came in
+ 0:01:50.780,0:01:54.500
+ near this semi-final in 94 the Cup
+ 0:01:52.940,0:01:56.090
+ Winners Cup they had a few good players
+ 0:01:54.500,0:01:57.620
+ you know that one exceptional wanting
+ 0:01:56.090,0:02:00.020
+ Davidge you know land guess whose job it
+ 0:01:57.620,0:02:01.820
+ was to mark him that'll be mine 40 later
+ 0:02:00.020,0:02:05.600
+ came out on top while the team did and
+ 0:02:01.820,0:02:08.660
+ we got to the final this is the lineup
+ 0:02:05.600,0:02:11.510
+ for Docklands Roman Berkey gets the
+ 0:02:08.660,0:02:14.090
+ Norden go Manuela can G plays with mats
+ 0:02:11.510,0:02:16.730
+ who was in central defense Julian brand
+ 0:02:14.090,0:02:19.430
+ plays alongside axel Witsel in central
+ 0:02:16.730,0:02:24.290
+ reveal and the story in attack is one of
+ 0:02:19.430,0:02:26.300
+ a strike partnership and they get the
+ 0:02:24.290,0:02:29.709
+ ball rolling in the second leg of s
+ 0:02:26.300,0:02:29.709
+ Champions League semi-final
+ 0:02:31.180,0:02:41.510
+ now let's see now Bacardi now many a
+ 0:02:36.120,0:02:44.020
+ here sikhandi he drew Sergey
+ 0:02:41.510,0:02:48.330
+ here's marquinhos
+ 0:02:44.020,0:02:48.330
+ d Mariana County
+ 0:02:48.599,0:02:53.010
+ see Maria
+ 0:02:50.550,0:02:57.360
+ individual prophecy coming to the fore
+ 0:02:53.010,0:02:59.640
+ [Applause]
+ 0:02:57.360,0:03:03.650
+ come they get in behind them onto
+ 0:02:59.640,0:03:05.280
+ DeMaria and many a again
+ 0:03:03.650,0:03:08.730
+ [Applause]
+ 0:03:05.280,0:03:11.270
+ Jardine weights across lacking guile and
+ 0:03:08.730,0:03:11.270
+ accuracy
+ 0:03:13.910,0:03:17.310
+ [Applause]
+ 0:03:20.640,0:03:29.790
+ just wanted to get it out of there an
+ 0:03:26.100,0:03:29.790
+ important interception
+ 0:03:32.470,0:03:38.900
+ [Applause]
+ 0:03:36.230,0:03:41.560
+ sancho now
+ 0:03:38.900,0:03:44.740
+ quick-thinking to dispossesses apparent
+ 0:03:41.560,0:03:44.740
+ [Applause]
+ 0:03:48.640,0:03:57.970
+ be this one been at this his name are
+ 0:03:54.579,0:03:57.970
+ here zimbave
+ 0:04:01.500,0:04:04.940
+ others in the vicinity
+ 0:04:06.670,0:04:09.940
+ g'day you know
+ 0:04:12.490,0:04:18.160
+ before with Marco rice good-looking ball
+ 0:04:15.580,0:04:20.500
+ there could be a chance now well he was
+ 0:04:18.160,0:04:22.840
+ just a fraction of sigh then that's all
+ 0:04:20.500,0:04:25.230
+ he needs to be a fraction and it was so
+ 0:04:22.840,0:04:25.230
+ close
+ 0:04:28.120,0:04:31.769
+ [Applause]
+ 0:04:47.190,0:04:52.229
+ and very deftly cut out
+ 0:04:56.690,0:05:02.850
+ now many a
+ 0:04:58.780,0:05:02.850
+ DeMaria 38
+ 0:05:04.080,0:05:11.430
+ strength and control a big part of his
+ 0:05:06.509,0:05:14.930
+ game marquinhos name our leave is one
+ 0:05:11.430,0:05:14.930
+ thing that varasi
+ 0:05:15.530,0:05:22.740
+ [Applause]
+ 0:05:18.759,0:05:22.740
+ DeMaria now munier
+ 0:05:23.080,0:05:33.080
+ on today Maria
+ 0:05:26.060,0:05:37.300
+ and a very good challenge and bits or
+ 0:05:33.080,0:05:37.300
+ with it can they hit on the break
+ 0:05:37.480,0:05:41.520
+ will it be sufficiently imaginative
+ 0:05:42.039,0:05:47.770
+ wonderfully weighted pass and it's
+ 0:05:44.949,0:05:49.719
+ played into the sensor what a vital
+ 0:05:47.770,0:05:51.000
+ intervention and when he wasn't messing
+ 0:05:49.719,0:05:54.079
+ around with the clearance
+ 0:05:51.000,0:05:54.079
+ [Applause]
+ 0:05:59.240,0:06:05.569
+ hobo's well the fans enjoyed that pass
+ 0:06:01.960,0:06:07.900
+ you hey-ho it comes to absolutely
+ 0:06:05.569,0:06:07.900
+ nothing
+ 0:06:11.200,0:06:15.940
+ now many a marquinhos
+ 0:06:20.210,0:06:25.630
+ mini eight-hour possession is the
+ 0:06:22.860,0:06:27.559
+ watchword inside their own territory
+ 0:06:25.630,0:06:33.189
+ [Applause]
+ 0:06:27.559,0:06:33.189
+ Davis Juan Bernat gay
+ 0:06:33.390,0:06:36.140
+ Varanasi
+ 0:06:40.270,0:06:44.410
+ dealing with the threat that was real
+ 0:06:50.970,0:06:59.529
+ this just named our devious one been
+ 0:06:54.360,0:07:01.479
+ that been that and scope for the cross
+ 0:06:59.529,0:07:04.200
+ moving the ball neatly enough just
+ 0:07:01.479,0:07:07.200
+ looking for that decisive pass
+ 0:07:04.200,0:07:09.900
+ Neymar preparing the inside route and
+ 0:07:07.200,0:07:13.070
+ the decision is one of offside here
+ 0:07:09.900,0:07:13.070
+ [Applause]
+ 0:07:24.630,0:07:27.720
+ [Applause]
+ 0:07:28.650,0:07:36.449
+ but I see now Neymar and that is that
+ 0:07:34.949,0:07:36.840
+ for the first half here on the French
+ 0:07:36.449,0:07:47.240
+ capital
+ 0:07:36.840,0:07:47.240
+ [Applause]
+ 0:08:01.830,0:08:05.880
+ and they get the ball rolling in the
+ 0:08:04.050,0:08:08.540
+ second leg of this Champions League
+ 0:08:05.880,0:08:13.940
+ semi-final
+ 0:08:08.540,0:08:13.940
+ [Music]
+ 0:08:19.540,0:08:24.040
+ and they're underway in the second half
+ 0:08:21.940,0:08:28.290
+ of this Champions League semi-final
+ 0:08:24.040,0:08:28.290
+ second leg bikini
+ 0:08:30.159,0:08:33.460
+ give it away
+ 0:08:35.750,0:08:38.469
+ gay
+ 0:08:39.600,0:08:46.670
+ an abundance of space
+ 0:08:43.800,0:08:51.100
+ he has teammates to play it too
+ 0:08:46.670,0:08:55.390
+ fan a see into the advanced position
+ 0:08:51.100,0:08:55.390
+ Lamar Bacardi
+ 0:08:55.400,0:09:01.280
+ [Applause]
+ 0:08:57.560,0:09:01.280
+ now with Akemi
+ 0:09:01.960,0:09:08.180
+ [Applause]
+ 0:09:04.870,0:09:14.880
+ target's available cross comes in a very
+ 0:09:08.180,0:09:19.560
+ effective clearance team area
+ 0:09:14.880,0:09:22.730
+ but I see now this is name are gay
+ 0:09:19.560,0:09:22.730
+ here's he cardi
+ 0:09:24.010,0:09:27.820
+ but they look as though they want to
+ 0:09:25.450,0:09:29.370
+ make no smoke at
+ 0:09:27.820,0:09:33.800
+ mini eh
+ 0:09:29.370,0:09:33.800
+ and that's an important intervention
+ 0:09:34.150,0:09:39.980
+ [Applause]
+ 0:09:41.460,0:09:47.120
+ but I say
+ 0:09:44.050,0:09:51.580
+ making progress is Killian and buffet
+ 0:09:47.120,0:09:54.950
+ [Applause]
+ 0:09:51.580,0:09:57.730
+ psg as they extend their advantage to
+ 0:09:54.950,0:09:57.730
+ two goals
+ 0:10:00.200,0:10:04.970
+ well don't be love to see this perfect
+ 0:10:02.839,0:10:08.019
+ attacking football who dribbles past
+ 0:10:04.970,0:10:08.019
+ emissivity isn't there
+ 0:10:08.270,0:10:11.780
+ slightly different vantage point in
+ 0:10:10.279,0:10:30.710
+ terms of the goal that was scored
+ 0:10:11.780,0:10:35.410
+ [Applause]
+ 0:10:30.710,0:10:35.410
+ on aggregate to nil daily
+ 0:10:40.170,0:10:46.270
+ as our pizza an unforced error you've
+ 0:10:45.070,0:10:50.560
+ got to say
+ 0:10:46.270,0:10:53.220
+ [Applause]
+ 0:10:50.560,0:10:53.220
+ gay
+ 0:10:53.270,0:10:56.230
+ I'm now gay
+ 0:10:56.690,0:11:01.720
+ dangerous looking through ball and bap a
+ 0:11:03.680,0:11:17.739
+ psg substitution it is for PSG 
+ 0:11:09.340,0:11:17.739
+ [Applause]
+ 0:11:20.980,0:11:29.149
+ it's Neymar's corner well not quite
+ 0:11:25.690,0:11:29.149
+ [Applause]
+ 0:11:31.830,0:11:35.750
+ now let's come down to the final twenty
+ 0:11:34.360,0:11:44.800
+ minutes here
+ 0:11:35.750,0:11:46.480
+ damn axles aagadu Guerrero motto rice
+ 0:11:44.800,0:11:49.739
+ good tackle
+ 0:11:46.480,0:11:49.739
+ [Applause]
+ 0:11:54.940,0:11:58.990
+ it's worth Matamoros
+ 0:11:59.620,0:12:05.130
+ [Applause]
+ 0:12:01.480,0:12:05.130
+ and space for the cross
+ 0:12:06.980,0:12:13.170
+ manual a kanji grant with it now with a
+ 0:12:11.810,0:12:15.949
+ kini
+ 0:12:13.170,0:12:15.949
+ vamos
+ 0:12:16.820,0:12:22.580
+ Sancho now the sitar looks highly
+ 0:12:20.360,0:12:26.250
+ promising
+ 0:12:22.580,0:12:29.660
+ Julian plans Akemi
+ 0:12:26.250,0:12:32.800
+ the referee says corner-kick
+ 0:12:29.660,0:12:36.150
+ substitution it is for Dortmund
+ 0:12:32.800,0:12:36.150
+ [Applause]
+ 0:12:38.860,0:12:42.200
+ [Applause]
+ 0:12:44.900,0:12:50.440
+ corner kick played over not the result
+ 0:12:48.140,0:12:56.140
+ from the set piece they were looking for
+ 0:12:50.440,0:12:56.140
+ plant crossing possibilities
+ 0:12:58.450,0:13:03.920
+ France with it
+ 0:13:01.200,0:13:07.130
+ that's well blocked here's marquinhos
+ 0:13:03.920,0:13:07.130
+ mini 8
+ 0:13:18.300,0:13:22.880
+ givanni the past not quite up to scratch
+ 0:13:24.700,0:13:28.800
+ like I do
+ 0:13:26.460,0:13:30.240
+ marko rice
+ 0:13:28.800,0:13:33.439
+ [Applause]
+ 0:13:30.240,0:13:33.439
+ but with it
+ 0:13:34.480,0:13:37.500
+ Julian prance
+ 0:13:37.620,0:13:43.650
+ you hate all can't miss Shirley so
+ 0:13:41.580,0:13:45.690
+ perhaps a from the keeper well that's
+ 0:13:43.650,0:13:49.460
+ what you pay him for defenders defend
+ 0:13:45.690,0:13:49.460
+ goalkeepers make saves like that
+ 0:14:00.690,0:14:03.849
+ [Applause]
+ 0:14:04.280,0:14:08.970
+ fired over biked well it makes a pretty
+ 0:14:07.080,0:14:10.770
+ picture for those photographers behind
+ 0:14:08.970,0:14:12.480
+ the girl but I'm not sure he was ever
+ 0:14:10.770,0:14:15.090
+ good to score with that bicycle kick
+ 0:14:12.480,0:14:17.930
+ well overhead kick looks good not really
+ 0:14:15.090,0:14:17.930
+ the option though
+ 0:14:29.740,0:14:36.790
+ here's marquinhos the referee's vessel
+ 0:14:34.300,0:14:39.550
+ for full time and Patti says your man
+ 0:14:36.790,0:14:41.140
+ will be in the final well Derek just
+ 0:14:39.550,0:14:44.080
+ look at the celebrations and quite
+ 0:14:41.140,0:14:45.940
+ rightly so sometimes semi-finals can be
+ 0:14:44.080,0:14:48.220
+ a little bit too much for players one
+ 0:14:45.940,0:14:50.500
+ side has to lose one side goes to the
+ 0:14:48.220,0:14:52.510
+ final I'm very envious of those players
+ 0:14:50.500,0:14:54.370
+ look at them enjoying this moment still
+ 0:14:52.510,0:14:55.900
+ work to be done before they beat that
+ 0:14:54.370,0:15:12.890
+ famous trophy off though
+ 0:14:55.900,0:15:12.890
+ [Applause]
+ 0:15:17.180,0:15:21.600
+ and they get the ball rolling in the
+ 0:15:19.800,0:15:26.190
+ second leg of this Champions League
+ 0:15:21.600,0:15:28.910
+ semi-final making progress is Killian
+ 0:15:26.190,0:15:28.910
+ and buffet
+ 0:15:32.820,0:15:39.950
+ oh it's gone in as for PSG as they
+ 0:15:36.030,0:15:39.950
+ extend their advantage to two
+ 0:15:40.440,0:15:46.310
+ you hate home
+ 0:15:43.010,0:15:47.810
+ can't mess Sharlee so perhaps a from the
+ 0:15:46.310,0:15:50.270
+ key back well that's what you pay him
+ 0:15:47.810,0:15:52.840
+ for defenders defend goalkeepers make
+ 0:15:50.270,0:15:52.840
+ saves like
+ 0:15:57.370,0:16:01.360
+ well it makes a pretty picture for those
+ 0:15:59.410,0:16:03.010
+ photographers behind the girl but I'm
+ 0:16:01.360,0:16:07.050
+ not sure he was ever going to score with
+ 0:16:03.010,0:16:07.050
+ that bicycle kick overhead kick&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html">PSG vs Dortmund UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20 Stadium : Parc des Princes</summary></entry><entry><title type="html">Valencia vs Atalanta | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/valencia-vs-atalanta-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="Valencia vs Atalanta | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:43:23+05:30</published><updated>2020-02-17T19:43:23+05:30</updated><id>http://localhost:4000/2020/02/17/valencia-vs-atalanta-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/valencia-vs-atalanta-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Valencia vs Atalanta&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20&lt;br /&gt;
+Stadium : Mestalla&lt;/p&gt;
+
+&lt;p&gt;This will be the first encounter between Atalanta and Valencia. It’s also the first time the team from Bergamo will face Spanish opposition in a competitive fixture.&lt;/p&gt;
+
+&lt;p&gt;Valencia have won only one of their eight away games against Italian opposition in the Champions League (D2 L5), a 1-0 victory against Roma in the 2002/03 second group stages.&lt;/p&gt;
+
+&lt;p&gt;They have also failed to find the net in six of those eight games. Atalanta are the first Champions League debutant to make it to the knockout stages of the Champions League since Leicester City in 2016/17 – the English side were eventually knocked out in the quarter-finals by Atlético Madrid.&lt;/p&gt;
+
+&lt;p&gt;Under the current format (since 2003/04), Atalanta are the first team to qualify for the last 16 of the Champions League after losing their opening three group games.&lt;/p&gt;
+
+&lt;p&gt;Atalanta won two of their six games in this season’s Champions League group phase (against Dinamo Zagreb and Shakhtar Donetsk), the lowest tally alongside Lyon among the 16 remaining teams.&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:01.090,0:00:08.880
+ [Music]
+ 0:00:06.290,0:00:11.280
+ good evening to you mrs. Hall was a
+ 0:00:08.880,0:00:13.920
+ difficult place for a traveling side to
+ 0:00:11.280,0:00:17.100
+ come to I'm talking about famous tire
+ 0:00:13.920,0:00:18.750
+ with its bullring atmosphere I'm Derrick
+ 0:00:17.100,0:00:21.359
+ rate and with me here on the Coventry
+ 0:00:18.750,0:00:23.760
+ position is Lee Dixon and what we have
+ 0:00:21.359,0:00:26.519
+ to look forward to is the second leg of
+ 0:00:23.760,0:00:29.970
+ this Champions League semi-final its
+ 0:00:26.519,0:00:31.830
+ Valencia facing at Atlanta well Thank
+ 0:00:29.970,0:00:34.170
+ You Derrick really set up today for a
+ 0:00:31.830,0:00:36.329
+ cracker of a game got the advantage from
+ 0:00:34.170,0:00:38.579
+ that first leg what do the home side do
+ 0:00:36.329,0:00:40.079
+ what the away side to for they attack
+ 0:00:38.579,0:00:41.810
+ from the start they need to put the
+ 0:00:40.079,0:00:42.880
+ pressure on
+ 0:00:41.810,0:00:47.970
+ [Applause]
+ 0:00:42.880,0:00:48.880
+ [Music]
+ 0:00:47.970,0:01:17.060
+ [Applause]
+ 0:00:48.880,0:01:17.970
+ [Music]
+ 0:01:17.060,0:01:20.220
+ [Applause]
+ 0:01:17.970,0:01:23.160
+ [Music]
+ 0:01:20.220,0:01:25.650
+ poor Valencia Ezequiel Garay plays
+ 0:01:23.160,0:01:26.700
+ alongside Gabrielle Paulista in the
+ 0:01:25.650,0:01:29.160
+ center of the fence
+ 0:01:26.700,0:01:31.530
+ Danny pareja starts with Francis Coppola
+ 0:01:29.160,0:01:33.660
+ in the centre of midfield and so many
+ 0:01:31.530,0:01:37.730
+ different ways to configure an attack in
+ 0:01:33.660,0:01:37.730
+ this case it'll be to man up front
+ 0:01:50.480,0:01:55.189
+ [Applause]
+ 0:02:03.510,0:02:08.610
+ we're starting a lemon for Atalanta
+ 0:02:06.020,0:02:10.200
+ wing-backs are important on this set up
+ 0:02:08.610,0:02:12.000
+ that you enjoy your experience of
+ 0:02:10.200,0:02:14.040
+ playing at Wing Batley not at all in the
+ 0:02:12.000,0:02:16.110
+ Bruce Rock answer very very demanding
+ 0:02:14.040,0:02:18.380
+ role as we can see the full-backs are
+ 0:02:16.110,0:02:21.240
+ exposed both offensively and defensively
+ 0:02:18.380,0:02:22.800
+ lots of support inside them but going
+ 0:02:21.240,0:02:26.330
+ forward they need to try and get the
+ 0:02:22.800,0:02:26.330
+ ball into the box for the two up front
+ 0:02:29.870,0:02:36.519
+ and Torres on the ball is with Lorenzi
+ 0:02:33.519,0:02:36.519
+ Rodrigo
+ 0:02:36.840,0:02:42.010
+ well great read there to intercepts
+ 0:02:39.090,0:02:44.110
+ [Applause]
+ 0:02:42.010,0:02:48.000
+ they knew what he was doing defensively
+ 0:02:44.110,0:02:48.000
+ with the concession of that throwing
+ 0:02:48.660,0:02:56.010
+ and space for the cross
+ 0:02:51.970,0:02:56.010
+ and the referee says corner-kick
+ 0:03:02.950,0:03:06.250
+ [Applause]
+ 0:03:09.900,0:03:15.390
+ and overcomes the corner the idea was to
+ 0:03:13.319,0:03:22.780
+ get the corner beyond the first offender
+ 0:03:15.390,0:03:25.330
+ but he didn't succeed he Lachish Zapata
+ 0:03:22.780,0:03:27.390
+ in possession
+ 0:03:25.330,0:03:31.319
+ [Applause]
+ 0:03:27.390,0:03:33.130
+ it's ripped annoy and that was a very
+ 0:03:31.319,0:03:36.430
+ fine read
+ 0:03:33.130,0:03:40.689
+ [Applause]
+ 0:03:36.430,0:03:44.859
+ and full control of the ball here there
+ 0:03:40.689,0:03:47.290
+ at Team cz now a highly purposeful
+ 0:03:44.859,0:03:51.370
+ attack place the emphasis on getting the
+ 0:03:47.290,0:03:53.450
+ ball forward this might be ideal for the
+ 0:03:51.370,0:03:55.240
+ canter
+ 0:03:53.450,0:03:57.330
+ Maximiliano Gomez
+ 0:03:55.240,0:03:59.960
+ [Applause]
+ 0:03:57.330,0:04:04.480
+ for them to Brazil
+ 0:03:59.960,0:04:06.190
+ very much on it's opening up for them
+ 0:04:04.480,0:04:08.740
+ get into the box
+ 0:04:06.190,0:04:11.240
+ time
+ 0:04:08.740,0:04:12.980
+ security
+ 0:04:11.240,0:04:15.970
+ what's up jealous they hop down Oh
+ 0:04:12.980,0:04:15.970
+ making it through
+ 0:04:27.460,0:04:33.630
+ what did he get reward
+ 0:04:30.800,0:04:36.500
+ the different vantage point in terms of
+ 0:04:33.630,0:04:36.500
+ the goal that the score
+ 0:04:36.570,0:04:39.980
+ [Applause]
+ 0:04:48.030,0:04:57.600
+ [Applause]
+ 0:04:54.570,0:05:01.699
+ one is the aggregate made 
+ 0:04:57.600,0:05:01.699
+ [Applause]
+ 0:05:06.189,0:05:09.989
+ it's with Robin goes ins
+ 0:05:12.520,0:05:16.000
+ goodness he was right on top of the
+ 0:05:14.319,0:05:16.690
+ situation to get the ball back for his
+ 0:05:16.000,0:05:22.050
+ team
+ 0:05:16.690,0:05:26.569
+ [Applause]
+ 0:05:22.050,0:05:29.919
+ kyla in possession Sam Botta
+ 0:05:26.569,0:05:29.919
+ an important intersection
+ 0:05:33.190,0:05:36.510
+ a big part of his game
+ 0:05:38.080,0:05:41.310
+ gomez
+ 0:05:39.760,0:05:43.940
+ [Music]
+ 0:05:41.310,0:05:43.940
+ Kalyan
+ 0:05:44.420,0:05:48.740
+ working away patiently looking for an
+ 0:05:46.910,0:05:50.760
+ opening
+ 0:05:48.740,0:05:52.320
+ Navaho
+ 0:05:50.760,0:05:58.070
+ [Applause]
+ 0:05:52.320,0:05:58.070
+ gomez high echelon go DB man
+ 0:06:07.760,0:06:11.380
+ [Applause]
+ 0:06:13.920,0:06:18.950
+ so the corner played into the box not
+ 0:06:16.740,0:06:22.130
+ all that convincing defensively
+ 0:06:18.950,0:06:22.130
+ [Applause]
+ 0:06:23.270,0:06:29.110
+ in possession at the door
+ 0:06:25.220,0:06:32.310
+ [Applause]
+ 0:06:29.110,0:06:32.310
+ and give it away
+ 0:06:35.060,0:06:43.420
+ [Applause]
+ 0:06:51.780,0:06:57.610
+ [Applause]
+ 0:06:55.450,0:07:01.009
+ cleared away contracts away
+ 0:06:57.610,0:07:01.009
+ [Music]
+ 0:07:01.080,0:07:05.000
+ losing possession a bit easily
+ 0:07:07.310,0:07:16.240
+ but NZ the crosses on should keep the
+ 0:07:14.090,0:07:16.240
+ ball
+ 0:07:18.380,0:07:22.000
+ Lila in possession
+ 0:07:23.620,0:07:29.310
+ see what might be the key
+ 0:07:27.030,0:07:31.880
+ an authoritative piece of defending from
+ 0:07:29.310,0:07:35.130
+ other sandrov Laurenzi on that occasion
+ 0:07:31.880,0:07:36.900
+ course fired over the keeper assert they
+ 0:07:35.130,0:07:38.670
+ didn't want to get bubble that and the
+ 0:07:36.900,0:07:40.620
+ corner it'll be well they're really
+ 0:07:38.670,0:07:42.360
+ looking to extend this tie the moment
+ 0:07:40.620,0:07:44.930
+ they're losing they need to score and
+ 0:07:42.360,0:07:44.930
+ score quickly
+ 0:07:52.640,0:08:05.170
+ [Applause]
+ 0:08:05.229,0:08:11.930
+ laid into the center of the box
+ 0:08:08.289,0:08:15.370
+ thunders clear assessing deep like this
+ 0:08:11.930,0:08:15.370
+ might be a dangerous game
+ 0:08:18.070,0:08:20.910
+ gomez
+ 0:08:22.730,0:08:27.250
+ attempting to fennekin to win the ball
+ 0:08:25.010,0:08:27.250
+ back
+ 0:08:28.220,0:08:33.380
+ Coquelin Gomez
+ 0:08:31.350,0:08:34.910
+ [Applause]
+ 0:08:33.380,0:08:38.090
+ straight down the throat of the
+ 0:08:34.910,0:08:39.470
+ opposition and with that the first half
+ 0:08:38.090,0:08:56.679
+ draws to a close
+ 0:08:39.470,0:08:56.679
+ [Applause]
+ 0:09:01.670,0:09:05.040
+ [Music]
+ 0:09:10.550,0:09:14.050
+ it's opening up for them
+ 0:09:14.800,0:09:18.119
+ remembering ass into the box
+ 0:09:18.520,0:09:24.520
+ on time they go to give them security
+ 0:09:21.459,0:09:26.970
+ and breathing room or to chance they
+ 0:09:24.520,0:09:26.970
+ have down
+ 0:09:28.720,0:09:37.230
+ [Applause]
+ 0:09:32.970,0:09:37.230
+ ash Alonso keeping there
+ 0:09:44.420,0:09:52.620
+ [Music]
+ 0:09:48.890,0:09:54.720
+ and they're underway in the second half
+ 0:09:52.620,0:09:56.390
+ of this Champions League semi-final
+ 0:09:54.720,0:10:04.820
+ second leg
+ 0:09:56.390,0:10:07.820
+ Martin Tyrone in possession Pat Devore
+ 0:10:04.820,0:10:07.820
+ editage
+ 0:10:07.950,0:10:14.220
+ from looking ball just unable to take
+ 0:10:11.550,0:10:16.390
+ advantage of that developing situation
+ 0:10:14.220,0:10:19.350
+ [Applause]
+ 0:10:16.390,0:10:19.350
+ Camero
+ 0:10:21.880,0:10:24.779
+ these evenings
+ 0:10:25.970,0:10:31.230
+ [Applause]
+ 0:10:28.830,0:10:37.110
+ lovely first touch that wasn't easy
+ 0:10:31.230,0:10:40.620
+ gomez and it's with editage and spatter
+ 0:10:37.110,0:10:43.709
+ Bora in position here to protect the
+ 0:10:40.620,0:10:48.709
+ ball that's a splendid piece of
+ 0:10:43.709,0:10:48.709
+ challenging and very deftly cut out
+ 0:10:50.290,0:10:53.549
+ the throw in forthcoming
+ 0:10:54.240,0:10:57.600
+ well they've been getting the substitute
+ 0:10:55.829,0:11:00.410
+ ready and now they will make the
+ 0:10:57.600,0:11:00.410
+ personnel change
+ 0:11:06.240,0:11:13.540
+ Lila in possession and it's with in each
+ 0:11:09.700,0:11:17.400
+ each now he must favor the cross Gomez
+ 0:11:13.540,0:11:20.710
+ he leakage an attack full of promise
+ 0:11:17.400,0:11:22.339
+ delivered into the area here well to
+ 0:11:20.710,0:11:25.100
+ deny from pipeline
+ 0:11:22.339,0:11:27.829
+ like that brilliant while really really
+ 0:11:25.100,0:11:31.540
+ strong goalkeeping spread himself used
+ 0:11:27.829,0:11:31.540
+ all of his body really good safe
+ 0:11:45.200,0:11:48.329
+ [Applause]
+ 0:11:49.329,0:11:54.939
+ and overcomes the corner we dealt with
+ 0:11:52.179,0:11:59.999
+ that ball played in rather well that is
+ 0:11:54.939,0:11:59.999
+ how to apply the pressure karai
+ 0:12:01.040,0:12:05.589
+ and so there he's given us away
+ 0:12:09.160,0:12:11.350
+ now he's gonna be disappointed but that
+ 0:12:10.870,0:12:14.929
+ fast
+ 0:12:11.350,0:12:14.929
+ [Applause]
+ 0:12:20.630,0:12:28.520
+ gomez Raphael tolai the touchline
+ 0:12:25.910,0:12:31.010
+ frou-frou
+ 0:12:28.520,0:12:33.250
+ we have elected to go to the bench at
+ 0:12:31.010,0:12:40.460
+ this stage of the game
+ 0:12:33.250,0:12:40.460
+ [Applause]
+ 0:12:40.730,0:12:45.610
+ and Patty Bora remote PHY down
+ 0:12:46.359,0:12:50.510
+ Martin Tyrone
+ 0:12:48.650,0:12:52.170
+ [Applause]
+ 0:12:50.510,0:12:54.050
+ Castagna
+ 0:12:52.170,0:12:56.239
+ [Applause]
+ 0:12:54.050,0:12:58.570
+ it's there forever and the goalkeeper
+ 0:12:56.239,0:13:09.390
+ will see that as part of doing his job
+ 0:12:58.570,0:13:09.390
+ [Applause]
+ 0:13:18.820,0:13:23.200
+ the delivery nothing positive comes of
+ 0:13:22.390,0:13:27.580
+ it unfortunately
+ 0:13:23.200,0:13:29.500
+ [Applause]
+ 0:13:27.580,0:13:31.680
+ useful looking position you've got to
+ 0:13:29.500,0:13:31.680
+ say
+ 0:13:33.670,0:13:39.700
+ just to keep us concentration to the
+ 0:13:36.589,0:13:39.700
+ maximum and he did
+ 0:13:50.390,0:13:53.580
+ [Applause]
+ 0:13:53.660,0:13:58.770
+ he's driven in the corner on a fine stop
+ 0:13:57.930,0:14:01.150
+ [Applause]
+ 0:13:58.770,0:14:04.330
+ [Music]
+ 0:14:01.150,0:14:04.330
+ [Applause]
+ 0:14:09.430,0:14:14.410
+ malinovski do ban Zapata
+ 0:14:14.470,0:14:21.089
+ hey Molina Oh a lovely Bowl
+ 0:14:17.860,0:14:24.350
+ [Applause]
+ 0:14:21.089,0:14:24.350
+ what can we do from here
+ 0:14:24.810,0:14:28.350
+ [Applause]
+ 0:14:28.940,0:14:34.290
+ now Palomino here mother sitting ever
+ 0:14:31.970,0:14:38.880
+ deeper
+ 0:14:34.290,0:14:38.880
+ [Applause]
+ 0:14:40.510,0:14:46.460
+ castaigne malinovski going about his
+ 0:14:44.660,0:14:49.280
+ defensive business with a minimum of
+ 0:14:46.460,0:14:53.740
+ fuss now transfer attacking possible is
+ 0:14:49.280,0:14:57.480
+ easier use Camaro
+ 0:14:53.740,0:15:00.150
+ an observer who's ever gates
+ 0:14:57.480,0:15:03.270
+ [Applause]
+ 0:15:00.150,0:15:05.720
+ enhanced obey keepers contribution but
+ 0:15:03.270,0:15:05.720
+ what next
+ 0:15:06.870,0:15:10.049
+ [Applause]
+ 0:15:10.250,0:15:14.520
+ malinovski
+ 0:15:12.780,0:15:16.390
+ just a couple of minutes left for
+ 0:15:14.520,0:15:19.010
+ playing
+ 0:15:16.390,0:15:21.680
+ Zapata
+ 0:15:19.010,0:15:23.830
+ and the referee is going to add on three
+ 0:15:21.680,0:15:23.830
+ minutes
+ 0:15:24.649,0:15:33.050
+ Crider in possession that's the kind of
+ 0:15:28.939,0:15:34.980
+ play you want from your defender and a
+ 0:15:33.050,0:15:44.240
+ substitution in the offing
+ 0:15:34.980,0:15:44.240
+ [Applause]
+ 0:15:47.850,0:15:53.850
+ now with Gabriele Paulista
+ 0:15:50.060,0:15:55.950
+ [Applause]
+ 0:15:53.850,0:15:58.680
+ because they can now book their tickets
+ 0:15:55.950,0:16:01.430
+ for the final well going to smokeless
+ 0:15:58.680,0:16:01.430
+ celebration
+ 0:16:03.410,0:16:08.080
+ looks to place one side has to lose one
+ 0:16:06.050,0:16:10.980
+ side goes to the final
+ 0:16:08.080,0:16:10.980
+ business-wise
+ 0:16:11.440,0:16:36.610
+ [Applause]
+ 0:16:41.880,0:16:45.230
+ it's opening up for them
+ 0:16:45.360,0:16:49.110
+ delivering us into the box
+ 0:16:49.360,0:16:54.399
+ at a time we go to give them security
+ 0:16:52.480,0:16:57.989
+ and breathing room
+ 0:16:54.399,0:16:57.989
+ what's a chance they have down
+ 0:17:00.430,0:17:12.030
+ [Applause]
+ 0:17:05.040,0:17:15.839
+ salon goalkeeping there an attack full
+ 0:17:12.030,0:17:18.360
+ of promise delivered into the area here
+ 0:17:15.839,0:17:19.289
+ rather than I am from point-blank range
+ 0:17:18.360,0:17:21.419
+ like that
+ 0:17:19.289,0:17:25.249
+ brilliant well really really strong
+ 0:17:21.419,0:17:25.249
+ goalkeeping spreading self
+ 0:17:29.170,0:17:37.780
+ and the girl people will see that as
+ 0:17:30.970,0:17:40.350
+ part of doing his job and in for the
+ 0:17:37.780,0:17:40.350
+ real chance
+ 0:17:42.220,0:17:47.190
+ to keep us concentration to the maximum
+ 0:17:44.560,0:17:47.190
+ and he did&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry><entry><title type="html">RB Leipzig vs Tottenham | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20</title><link href="http://localhost:4000/2020/02/17/rb-leipzig-vs-tottenham-uefa-champions-league-round-of-16-leg-2-of-2-2019-20" rel="alternate" type="text/html" title="RB Leipzig vs Tottenham | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20" /><published>2020-02-17T19:41:24+05:30</published><updated>2020-02-17T19:41:24+05:30</updated><id>http://localhost:4000/2020/02/17/rb-leipzig-vs-tottenham-uefa-champions-league-round-of-16-leg-2-of-2-2019-20</id><content type="html" xml:base="http://localhost:4000/2020/02/17/rb-leipzig-vs-tottenham-uefa-champions-league-round-of-16-leg-2-of-2-2019-20">&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;RB Leipzig vs Tottenham&lt;br /&gt;
+UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20&lt;br /&gt;
+Stadium : Red Bull Arena&lt;/p&gt;
+
+&lt;p&gt;This will be the first encounter between Tottenham and RB Leipzig. It’s also the first time the team from Leipzig is facing an English club in a competitive fixture whilst Spurs will be facing German opposition in the UCL round of 16 for the second consecutive season, after knocking out Borussia Dortmund 4-0 on aggregate in 2018/19.&lt;/p&gt;
+
+&lt;p&gt;The only previous game between Tottenham and a German team at the new Tottenham Hotspur Stadium ended in a 7-2 win for Bayern Munich, back in October this season.&lt;/p&gt;
+
+&lt;p&gt;In fact, Tottenham’s two Champions League games against German opposition this season have produced 13 goals. Finalists in 2018/19, Tottenham are in the knockout stages of the Champions League for the third consecutive season – they had only made it past the group phase once before (2010/11).&lt;/p&gt;
+
+&lt;p&gt;RB Leipzig have reached the Champions League knockout stages for the first time in their history. Wolfsburg are the last German team – outside of Bayern Munich and Borussia Dortmund – to make it past the round of 16, back in 2015/16.&lt;/p&gt;
+
+&lt;p&gt;Tottenham conceded 14 goals in this season’s Champions League group phase, the highest tally among the remaining teams in the competition. Half of those goals came in their home game against Bayern Munich (2-7).&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;br /&gt;
+&lt;a href=&quot;http://www.easports.com/fifa&quot;&gt;http://www.easports.com/fifa&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.google.com/search?q=uefa+champions+league&quot;&gt;https://www.google.com/search?q=uefa+champions+league&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-preformatted&quot;&gt;0:00:01.180,0:00:09.059
+ [Music]
+ 0:00:05.839,0:00:10.950
+ and good evening on what is a perfect
+ 0:00:09.059,0:00:13.590
+ night for football the floodlights
+ 0:00:10.950,0:00:15.809
+ shining down on the players as we speak
+ 0:00:13.590,0:00:18.330
+ I'm Derek ray here on the commentary box
+ 0:00:15.809,0:00:20.460
+ and I'm joined for commentary by Lee
+ 0:00:18.330,0:00:23.010
+ Dixon and spurs on the team of the
+ 0:00:20.460,0:00:25.289
+ advantage as we go into the second and
+ 0:00:23.010,0:00:28.470
+ decisive leg of this Champions League
+ 0:00:25.289,0:00:30.750
+ semi-final it's every Bay like seat up
+ 0:00:28.470,0:00:32.430
+ against Tottenham Hotspur thank you
+ 0:00:30.750,0:00:34.170
+ doing well Tottenham probably deserve
+ 0:00:32.430,0:00:36.360
+ the lead after that first leg
+ 0:00:34.170,0:00:37.950
+ I thought the temple the game they set I
+ 0:00:36.360,0:00:39.930
+ thought they were brilliant in midfield
+ 0:00:37.950,0:00:41.620
+ but overall they can't afford to switch
+ 0:00:39.930,0:00:44.920
+ off still very very tight
+ 0:00:41.620,0:00:47.810
+ [Applause]
+ 0:00:44.920,0:00:48.620
+ [Music]
+ 0:00:47.810,0:01:09.989
+ [Applause]
+ 0:00:48.620,0:01:09.989
+ [Music]
+ 0:01:12.010,0:01:17.970
+ [Music]
+ 0:01:17.130,0:01:19.370
+ [Applause]
+ 0:01:17.970,0:01:36.569
+ [Music]
+ 0:01:19.370,0:01:36.569
+ [Applause]
+ 0:01:41.140,0:01:46.760
+ San Luca starting eleven for light seat
+ 0:01:44.650,0:01:48.710
+ and he turned to her what are you going
+ 0:01:46.760,0:01:50.810
+ to get Saturday from this team hi
+ 0:01:48.710,0:01:53.120
+ present were high pressure in high
+ 0:01:50.810,0:01:55.550
+ energy played the system a harsh for
+ 0:01:53.120,0:01:57.920
+ many year old George brain it does not
+ 0:01:55.550,0:01:59.110
+ work when it works well sometimes you
+ 0:01:57.920,0:02:03.640
+ can just get it
+ 0:01:59.110,0:02:03.640
+ they've got it down to a tee to be fair
+ 0:02:05.409,0:02:11.000
+ Spurs will go with this starting eleven
+ 0:02:08.599,0:02:13.129
+ Mughal or eise begins him go young
+ 0:02:11.000,0:02:15.590
+ victorian stands alongside joey other
+ 0:02:13.129,0:02:19.690
+ melbourne central defense and in attack
+ 0:02:15.590,0:02:19.690
+ they all was dangerous Harry Kay
+ 0:02:24.319,0:02:28.859
+ and they get the ball rolling in the
+ 0:02:27.060,0:02:31.430
+ second leg of this Champions League
+ 0:02:28.859,0:02:31.430
+ semi-final
+ 0:02:32.680,0:02:40.080
+ she clinics
+ 0:02:35.380,0:02:45.600
+ no deep Mookie le Marcel's dummied sir
+ 0:02:40.080,0:02:45.600
+ who's Patrick Sheikh making progress
+ 0:02:47.319,0:02:55.020
+ Lucas Maurier
+ 0:02:51.910,0:02:55.020
+ look elsewhere this
+ 0:02:56.730,0:03:01.670
+ not much time to make up his mind
+ 0:02:59.780,0:03:04.100
+ well you never quite know who's going to
+ 0:03:01.670,0:03:05.990
+ dominate a game in advance but I think
+ 0:03:04.100,0:03:07.940
+ you can maybe make an argument for this
+ 0:03:05.990,0:03:09.830
+ fellow Lee what do you think we'll see
+ 0:03:07.940,0:03:11.540
+ from him but when I look at play I'm
+ 0:03:09.830,0:03:13.730
+ playing against the first thing I look
+ 0:03:11.540,0:03:15.770
+ at is how quick is he and if he is quick
+ 0:03:13.730,0:03:18.110
+ he's got pace I have to play him a
+ 0:03:15.770,0:03:19.700
+ certain way that's my first objective to
+ 0:03:18.110,0:03:22.180
+ stop him getting the ball so he can use
+ 0:03:19.700,0:03:22.180
+ that pace
+ 0:03:29.769,0:03:35.799
+ was respectable but the goalkeeper
+ 0:03:32.299,0:03:35.799
+ always seemed to have it covered
+ 0:03:36.660,0:03:40.460
+ [Applause]
+ 0:04:01.880,0:04:05.020
+ [Applause]
+ 0:04:10.150,0:04:16.120
+ well that is a defenders job to come to
+ 0:04:12.519,0:04:17.780
+ the rescue a good-looking move to the
+ 0:04:16.120,0:04:21.160
+ mechanic
+ 0:04:17.780,0:04:21.160
+ no deep Mickey any
+ 0:04:21.970,0:04:27.840
+ Marcel's a beat sir possession lost
+ 0:04:30.500,0:04:33.430
+ some
+ 0:04:31.910,0:04:36.680
+ [Applause]
+ 0:04:33.430,0:04:41.350
+ a good and fair challenge
+ 0:04:36.680,0:04:43.590
+ so the token
+ 0:04:41.350,0:04:46.460
+ [Applause]
+ 0:04:43.590,0:04:46.460
+ Oh Elsa
+ 0:04:49.460,0:04:54.230
+ soul
+ 0:04:51.110,0:04:55.180
+ and it swings they do pass the ball with
+ 0:04:54.230,0:04:58.350
+ authority
+ 0:04:55.180,0:04:58.350
+ [Applause]
+ 0:04:59.400,0:05:03.690
+ the goalkeeper right behind it the only
+ 0:05:01.860,0:05:06.080
+ way to score there goes he decided the
+ 0:05:03.690,0:05:06.080
+ keeper
+ 0:05:06.840,0:05:09.590
+ Adams
+ 0:05:10.070,0:05:18.180
+ forsberg and Sundberg has it bad
+ 0:05:16.380,0:05:21.330
+ challenge and now it's up to the referee
+ 0:05:18.180,0:05:23.820
+ in terms of what to do next and the
+ 0:05:21.330,0:05:25.440
+ referee has determined that that is a
+ 0:05:23.820,0:05:26.760
+ book of an offense I don't think you
+ 0:05:25.440,0:05:28.670
+ could think anything else after that
+ 0:05:26.760,0:05:35.449
+ challenge
+ 0:05:28.670,0:05:35.449
+ [Applause]
+ 0:05:38.990,0:05:47.620
+ [Applause]
+ 0:05:48.150,0:05:56.810
+ and they deal with the threat this time
+ 0:05:51.860,0:05:58.560
+ or ei Delhi alley now look us with it
+ 0:05:56.810,0:06:01.440
+ now Cory a
+ 0:05:58.560,0:06:04.030
+ [Music]
+ 0:06:01.440,0:06:07.110
+ [Applause]
+ 0:06:04.030,0:06:07.110
+ gems in the center
+ 0:06:07.360,0:06:13.689
+ no sensor as clean as a whistle that
+ 0:06:11.050,0:06:18.009
+ challenge on the counter looks on here
+ 0:06:13.689,0:06:23.289
+ options available Lima on the ball
+ 0:06:18.009,0:06:27.069
+ tremendous intuition to win it back okay
+ 0:06:23.289,0:06:29.590
+ well visionary pulsing and a feed for
+ 0:06:27.069,0:06:32.170
+ birds a call for Tottenham Hotspur and
+ 0:06:29.590,0:06:38.129
+ they are gonna be difficult to sort now
+ 0:06:32.170,0:06:40.319
+ [Applause]
+ 0:06:38.129,0:06:41.999
+ while sometimes being in the right place
+ 0:06:40.319,0:06:44.610
+ at the right time gets you a goal on
+ 0:06:41.999,0:06:47.669
+ this occasion is a simple goal from his
+ 0:06:44.610,0:06:49.849
+ point of view a chance to revisit the
+ 0:06:47.669,0:06:49.849
+ goal
+ 0:06:50.410,0:06:59.990
+ [Applause]
+ 0:06:57.800,0:07:07.860
+ [Music]
+ 0:06:59.990,0:07:07.860
+ [Applause]
+ 0:07:07.999,0:07:12.759
+ well now on aggregate to nail d'Alene
+ 0:07:18.400,0:07:21.449
+ but giving it away
+ 0:07:23.390,0:07:32.069
+ [Applause]
+ 0:07:28.169,0:07:34.770
+ far from a good pass that's the kind of
+ 0:07:32.069,0:07:38.610
+ shielding play you expect from it and a
+ 0:07:34.770,0:07:41.719
+ strong tackle possession changes hands
+ 0:07:38.610,0:07:41.719
+ they interception there
+ 0:07:47.120,0:07:56.319
+ [Applause]
+ 0:07:49.520,0:07:56.319
+ Forsberg making progress
+ 0:07:57.919,0:08:01.520
+ he's never going to worry the keeper
+ 0:07:59.749,0:08:03.680
+ well no wonder he's looking a little bit
+ 0:08:01.520,0:08:06.759
+ sheepishly at his teammates head in a
+ 0:08:03.680,0:08:06.759
+ handsaw moment
+ 0:08:23.150,0:08:29.260
+ [Music]
+ 0:08:27.810,0:08:31.480
+ [Applause]
+ 0:08:29.260,0:08:34.650
+ plus plenty of know-how in the bowl
+ 0:08:31.480,0:08:34.650
+ shielding departments
+ 0:08:34.700,0:08:39.389
+ [Applause]
+ 0:08:39.790,0:08:47.290
+ shit with it Lima on the ball referees
+ 0:08:45.190,0:08:52.010
+ verdict is three additional minutes
+ 0:08:47.290,0:08:58.740
+ three minutes from card labor force bag
+ 0:08:52.010,0:08:58.740
+ [Applause]
+ 0:09:00.120,0:09:05.670
+ unable to keep the ball that time so the
+ 0:09:03.899,0:09:09.079
+ whistle then were up the halfway stage
+ 0:09:05.670,0:09:09.079
+ in this match
+ 0:09:14.780,0:09:21.080
+ [Applause]
+ 0:09:30.870,0:09:35.260
+ and they get the ball rolling in the
+ 0:09:33.430,0:09:44.440
+ second leg of this Champions League
+ 0:09:35.260,0:09:45.940
+ semi-final was respectable but the
+ 0:09:44.440,0:09:54.570
+ goalkeeper always seemed to have it
+ 0:09:45.940,0:09:54.570
+ covered I'll stand back as it
+ 0:09:56.060,0:10:00.740
+ and the referee has determined that that
+ 0:09:58.610,0:10:03.760
+ is a book about offense I don't think
+ 0:10:00.740,0:10:03.760
+ you could think anything else
+ 0:10:05.900,0:10:09.070
+ [Applause]
+ 0:10:09.540,0:10:13.140
+ visionary promising
+ 0:10:13.720,0:10:18.700
+ and a big moments ago for Tottenham
+ 0:10:16.570,0:10:23.310
+ Hotspur and they are going to be
+ 0:10:18.700,0:10:23.310
+ difficult to sort now making progress
+ 0:10:25.970,0:10:30.330
+ was never going to worry the keeper well
+ 0:10:29.010,0:10:32.580
+ no wonder is looking a little bit
+ 0:10:30.330,0:10:35.690
+ sheepishly at his teammates heading a
+ 0:10:32.580,0:10:35.690
+ handsaw moment
+ 0:10:42.819,0:10:48.920
+ and they're underway in the second half
+ 0:10:46.790,0:10:54.980
+ of this Champions League semi-final
+ 0:10:48.920,0:10:56.529
+ second leg now son Brian Sisson your
+ 0:10:54.980,0:10:58.509
+ passing
+ 0:10:56.529,0:11:01.679
+ but after that fantastic effort it's
+ 0:10:58.509,0:11:01.679
+ gone out for a throwing
+ 0:11:03.760,0:11:06.750
+ señor
+ 0:11:08.150,0:11:14.400
+ now on the bay realm miss Elsa
+ 0:11:12.320,0:11:16.320
+ [Music]
+ 0:11:14.400,0:11:18.980
+ Lucas Mona
+ 0:11:16.320,0:11:18.980
+ comes clear
+ 0:11:19.970,0:11:24.679
+ [Applause]
+ 0:11:21.460,0:11:24.679
+ [Music]
+ 0:11:26.500,0:11:37.639
+ [Applause]
+ 0:11:42.970,0:11:47.100
+ so it's going to be a girl kick here
+ 0:12:07.670,0:12:13.950
+ brian says in your kazakh
+ 0:12:10.500,0:12:16.960
+ [Music]
+ 0:12:13.950,0:12:19.370
+ [Applause]
+ 0:12:16.960,0:12:22.490
+ now son
+ 0:12:19.370,0:12:25.790
+ Spurs passing it around nicely but what
+ 0:12:22.490,0:12:27.430
+ can they do from here now with Lukas
+ 0:12:25.790,0:12:30.610
+ Klosterman
+ 0:12:27.430,0:12:31.310
+ Marcela Itza this might be ideal for the
+ 0:12:30.610,0:12:34.480
+ counter
+ 0:12:31.310,0:12:34.480
+ [Applause]
+ 0:12:35.820,0:12:40.380
+ like chic now
+ 0:12:37.660,0:12:43.000
+ he's got space
+ 0:12:40.380,0:12:45.270
+ money but strongly into the challenge
+ 0:12:43.000,0:12:50.580
+ and the result is a throwie
+ 0:12:45.270,0:12:50.580
+ and a change for Spurs at this juncture
+ 0:12:52.750,0:12:55.919
+ [Music]
+ 0:12:57.430,0:13:03.700
+ and the cross is very much on Marcel's a
+ 0:13:01.310,0:13:03.700
+ visa
+ 0:13:04.250,0:13:07.419
+ [Applause]
+ 0:13:08.769,0:13:11.550
+ Lima
+ 0:13:11.660,0:13:17.610
+ looks promising bass
+ 0:13:14.290,0:13:17.610
+ they'd be able to play it in behind
+ 0:13:18.920,0:13:23.199
+ they breathing a sigh of relief ball one
+ 0:13:23.559,0:13:28.689
+ no cell serve all the way out
+ 0:13:30.329,0:13:36.319
+ given away by Tottenham in full control
+ 0:13:33.329,0:13:36.319
+ of the ball here
+ 0:13:37.250,0:13:40.480
+ now maila worth it
+ 0:13:42.450,0:13:47.090
+ some
+ 0:13:44.480,0:13:49.360
+ setting your he's got the right idea
+ 0:13:47.090,0:13:51.999
+ over that pass
+ 0:13:49.360,0:13:56.130
+ that's all they can conjure for now not
+ 0:13:51.999,0:14:02.100
+ the nuke en ik well he's given us away
+ 0:13:56.130,0:14:05.100
+ [Applause]
+ 0:14:02.100,0:14:05.100
+ Adams
+ 0:14:05.390,0:14:09.550
+ Tyler Adams
+ 0:14:07.279,0:14:12.820
+ vanna
+ 0:14:09.550,0:14:14.900
+ they are on the move again the stylish
+ 0:14:12.820,0:14:17.059
+ ball what can they do now
+ 0:14:14.900,0:14:18.919
+ space run across
+ 0:14:17.059,0:14:22.089
+ you've got to conclude that it was
+ 0:14:18.919,0:14:22.089
+ completely overheats
+ 0:14:24.030,0:14:30.680
+ fifteen minutes remaining Tyler Adams
+ 0:14:32.459,0:14:36.309
+ just as well from the defensive point of
+ 0:14:35.019,0:14:46.360
+ view that he was able to make that
+ 0:14:36.309,0:14:48.819
+ interception al Darrell Brian seson your
+ 0:14:46.360,0:14:50.529
+ Haziq but it's a great advantage to any
+ 0:14:48.819,0:14:51.360
+ side when you're as comfortable on the
+ 0:14:50.529,0:14:59.540
+ ball as they are
+ 0:14:51.360,0:15:03.070
+ [Applause]
+ 0:14:59.540,0:15:03.070
+ not much time to make up his mind
+ 0:15:04.420,0:15:09.610
+ the pressure was high and they cut me in
+ 0:15:06.790,0:15:11.770
+ here to sue Eakin 12 they've been
+ 0:15:09.610,0:15:14.920
+ getting a substitute ready and now they
+ 0:15:11.770,0:15:17.580
+ will make the personnel change coming
+ 0:15:14.920,0:15:17.580
+ onto the page
+ 0:15:19.600,0:15:22.739
+ [Applause]
+ 0:15:23.870,0:15:28.820
+ Polson opportunity to deliver the cross
+ 0:15:26.950,0:15:32.129
+ what can we do from here
+ 0:15:28.820,0:15:32.129
+ [Applause]
+ 0:15:32.880,0:15:38.010
+ that's well blocks well they got the
+ 0:15:35.730,0:15:41.670
+ touch on the ball and so a corner it'll
+ 0:15:38.010,0:15:43.820
+ be substitution time as is
+ 0:15:41.670,0:15:46.940
+ [Applause]
+ 0:15:43.820,0:15:49.720
+ [Music]
+ 0:15:46.940,0:15:51.650
+ [Applause]
+ 0:15:49.720,0:15:53.329
+ [Music]
+ 0:15:51.650,0:15:56.209
+ [Applause]
+ 0:15:53.329,0:15:58.309
+ thrown a kick played over lacking
+ 0:15:56.209,0:16:00.980
+ indirection with that head up he was
+ 0:15:58.309,0:16:02.299
+ under duress the defender just put him
+ 0:16:00.980,0:16:05.829
+ off a little bit but he's worth an
+ 0:16:02.299,0:16:05.829
+ effort if he goes in he's a hero
+ 0:16:27.970,0:16:35.319
+ Danny Olmo with a Eisenberg has it and
+ 0:16:33.129,0:16:38.050
+ just a one minute left in normal time
+ 0:16:35.319,0:16:42.670
+ here and the fog has gone up here
+ 0:16:38.050,0:16:45.250
+ offside the decision boys off for only
+ 0:16:42.670,0:16:48.990
+ just the gamble from the defenders is
+ 0:16:45.250,0:16:48.990
+ paid off the linesman was right
+ 0:16:49.790,0:17:05.360
+ [Applause]
+ 0:17:03.050,0:17:07.100
+ health officials indicated banty of
+ 0:17:05.360,0:17:09.740
+ know-how and the ball shielding
+ 0:17:07.100,0:17:13.490
+ Department Kane
+ 0:17:09.740,0:17:15.730
+ sighs pass intercepted Kane wonderful
+ 0:17:13.490,0:17:15.730
+ chance
+ 0:17:19.920,0:17:25.550
+ blows whistle
+ 0:17:22.520,0:17:27.230
+ are going to the final military to smoke
+ 0:17:25.550,0:17:30.310
+ in the celebrations and quite rightly
+ 0:17:27.230,0:17:33.120
+ sir sometimes semi-finals
+ 0:17:30.310,0:17:33.120
+ she books the plan
+ 0:17:33.920,0:17:38.580
+ I'm very envious of those players look
+ 0:17:36.570,0:17:40.140
+ at them enjoying this moment still work
+ 0:17:38.580,0:17:43.460
+ to be done before they picked that
+ 0:17:40.140,0:17:43.460
+ famous trophy off though
+ 0:17:45.860,0:17:49.570
+ [Applause]
+ 0:17:58.100,0:18:01.290
+ [Music]
+ 0:18:03.599,0:18:07.989
+ now they get the ball rolling in the
+ 0:18:06.159,0:18:16.450
+ second leg of this Champions League
+ 0:18:07.989,0:18:18.549
+ semi-final the Heather was respectable
+ 0:18:16.450,0:18:19.950
+ but the goalkeeper always seemed to have
+ 0:18:18.549,0:18:23.359
+ it covered
+ 0:18:19.950,0:18:23.359
+ [Applause]
+ 0:18:23.669,0:18:27.149
+ Iceland Benghazi
+ 0:18:28.830,0:18:33.480
+ and the referee has determined that that
+ 0:18:31.320,0:18:36.500
+ is a book above offense I don't think
+ 0:18:33.480,0:18:36.500
+ you could think anything else
+ 0:18:42.070,0:18:45.900
+ well visionary pouncing
+ 0:18:46.480,0:18:51.670
+ and a pain moments a call for Tottenham
+ 0:18:49.300,0:18:55.770
+ Hotspur and they are gonna be difficult
+ 0:18:51.670,0:18:55.770
+ to sort now making progress
+ 0:18:59.010,0:19:02.790
+ it was never going to worry the keeper
+ 0:19:01.140,0:19:05.040
+ well no wonder is looking a little bit
+ 0:19:02.790,0:19:08.150
+ sheepishly at his teammates head in a
+ 0:19:05.040,0:19:08.150
+ handsaw moment
+ 0:19:20.810,0:19:25.080
+ lacking in direction with that header he
+ 0:19:23.670,0:19:26.970
+ was under duress
+ 0:19:25.080,0:19:30.260
+ yeah defender just put him off a little
+ 0:19:26.970,0:19:30.260
+ bit but his Worthen ethic&lt;/pre&gt;</content><author><name>admin</name></author><summary type="html"></summary></entry></feed>
