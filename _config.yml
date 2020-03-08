@@ -36,7 +36,8 @@ disqus:
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: commoncreed-io-1
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-admin
