@@ -26,7 +26,7 @@ description: 'Everyone is unique. Yet we all are same. #Programmer4Life #Gamer4L
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CommonCreed
-github_username:  commoncreed
+# github_username:  commoncreed
 instagram_username: commoncreed
 permalink: /:year/:month/:day/:title
 #wordpress converter

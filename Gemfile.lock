@@ -269,9 +269,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 204)
-  jekyll-admin
+  jekyll-admin (~> 0.9.0)
   jekyll-feed (~> 0.12)
-  jekyll-sitemap
+  jekyll-seo-tag (~> 2.6.1)
+  jekyll-sitemap (~> 1.4.0)
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
