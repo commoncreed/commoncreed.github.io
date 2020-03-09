@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 name: Common Creed
 description: 'Everyone is unique. Yet we all are same. #Programmer4Life #Gamer4Life 👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://commoncreed.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CommonCreed
 github_username: commoncreed
 instagram_username: commoncreed
