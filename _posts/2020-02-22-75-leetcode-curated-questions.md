@@ -1,9 +1,10 @@
 ---
 id: 71
-title: 75 LeetCode Curated Questions
+title: "75 LeetCode Curated Questions"
 date: 2020-02-22T15:44:43+00:00
 author: admin
-layout: post
+layout: single
+comments_id: 1
 categories:
   - Data Structures and Algorithms
 ---

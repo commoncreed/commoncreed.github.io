@@ -1,12 +1,17 @@
 ---
 id: 44
-title: PSG vs Dortmund | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20
+title: "PSG vs Dortmund \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
 date: 2020-02-17T14:14:54+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
 PSG vs Dortmund  
 UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
 Stadium : Parc des Princes 

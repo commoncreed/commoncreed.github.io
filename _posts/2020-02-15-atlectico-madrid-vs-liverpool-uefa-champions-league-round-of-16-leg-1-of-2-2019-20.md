@@ -1,6 +1,6 @@
 ---
 id: 6
-title: Atlético Madrid vs Liverpool | UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20
+title: "Atlético Madrid vs Liverpool \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
 date: 2020-02-15T15:20:46+00:00
 author: admin
 layout: post
