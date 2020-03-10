@@ -1,9 +1,9 @@
 ---
 id: 24
-title: Napoli vs Barcelona | UEFA Champions League | Round of 16 | Leg 1 of 2
+title: "Napoli vs Barcelona \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
 date: 2020-02-16T20:18:22+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---

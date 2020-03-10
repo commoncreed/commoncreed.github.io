@@ -1,16 +1,14 @@
 ---
 id: 56
-title: Bayern vs Chelsea | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20
+title: "Bayern vs Chelsea \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
 date: 2020-02-17T14:23:41+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id=page._dt3l1J_yRE %}
 
 Bayern vs Chelsea  
 UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  

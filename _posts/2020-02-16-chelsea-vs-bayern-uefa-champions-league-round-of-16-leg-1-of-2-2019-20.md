@@ -1,9 +1,9 @@
 ---
 id: 22
-title: Chelsea vs Bayern | UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20
+title: "Chelsea vs Bayern \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
 date: 2020-02-16T20:15:58+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---

@@ -1,9 +1,9 @@
 ---
 id: 11
-title: Dortmund vs PSG | UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20
+title: "Dortmund vs PSG \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
 date: 2020-02-16T20:00:52+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---

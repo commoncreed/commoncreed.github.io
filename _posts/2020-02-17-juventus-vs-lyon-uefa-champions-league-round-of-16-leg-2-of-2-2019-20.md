@@ -1,9 +1,9 @@
 ---
 id: 51
-title: Juventus vs Lyon | UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20
+title: "Juventus vs Lyon \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
 date: 2020-02-17T14:20:52+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---

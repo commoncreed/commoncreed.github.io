@@ -1,9 +1,9 @@
 ---
 id: 14
-title: Atalanta vs Valencia | UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20
+title: "Atalanta vs Valencia \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
 date: 2020-02-16T20:05:56+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---
