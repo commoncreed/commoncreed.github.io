@@ -1,6 +1,6 @@
 ---
 id: 11
-title: "Dortmund vs PSG \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Dortmund vs PSG &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:00:52+00:00
 author: admin
 layout: single
@@ -16,7 +16,7 @@ categories:
 
 
 Dortmund vs PSG  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Westfalenstadion 
 
 The only previous encounter between Borussia Dortmund and Paris SG was in the 2010/11 Europa League group stages – both games ended in a draw (1-1 in Dortmund, 0-0 in Paris). 

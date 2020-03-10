@@ -1,6 +1,6 @@
 ---
 id: 46
-title: "Liverpool vs Atlético Madrid \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "Liverpool vs Atlético Madrid &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:17:11+00:00
 author: admin
 layout: single
@@ -15,7 +15,7 @@ categories:
  
 
 Liverpool vs Atlético Madrid  
-UEFA Champions League Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium: Anfield 
 
 The head-to-head between Atlético Madrid and Liverpool in Europe is perfectly balanced with one win each and two draws (4 goals each). 

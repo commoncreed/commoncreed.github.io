@@ -1,6 +1,6 @@
 ---
 id: 26
-title: "Lyon vs Juventus \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Lyon vs Juventus &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:19:47+00:00
 author: admin
 layout: single
@@ -15,7 +15,7 @@ categories:
 
 
 Lyon vs Juventus  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Parc Olympique Lyonnais 
 
 Credits:  

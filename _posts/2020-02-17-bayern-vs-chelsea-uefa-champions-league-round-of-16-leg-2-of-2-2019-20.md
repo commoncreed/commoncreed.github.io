@@ -1,6 +1,6 @@
 ---
 id: 56
-title: "Bayern vs Chelsea \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "Bayern vs Chelsea &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:23:41+00:00
 author: admin
 layout: single
@@ -12,7 +12,7 @@ categories:
 ---
 
 Bayern vs Chelsea  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Allianz Arena 
 
 Credits:  

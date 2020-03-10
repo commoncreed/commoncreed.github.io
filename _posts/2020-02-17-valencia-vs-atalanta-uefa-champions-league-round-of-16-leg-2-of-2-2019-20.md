@@ -1,6 +1,6 @@
 ---
 id: 42
-title: "Valencia vs Atalanta \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "Valencia vs Atalanta &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:13:23+00:00
 author: admin
 layout: single
@@ -15,7 +15,7 @@ categories:
  
 
 Valencia vs Atalanta  
-UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium : Mestalla 
 
 This will be the first encounter between Atalanta and Valencia. It’s also the first time the team from Bergamo will face Spanish opposition in a competitive fixture. 

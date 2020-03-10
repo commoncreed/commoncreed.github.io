@@ -1,6 +1,6 @@
 ---
 id: 48
-title: "Manchester City vs Real Madrid \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "Manchester City vs Real Madrid &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:18:56+00:00
 author: admin
 layout: single
@@ -15,7 +15,7 @@ categories:
  
 
 Manchester City vs Real Madrid  
-UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium : City of Manchester Stadium 
 
 Credits:  

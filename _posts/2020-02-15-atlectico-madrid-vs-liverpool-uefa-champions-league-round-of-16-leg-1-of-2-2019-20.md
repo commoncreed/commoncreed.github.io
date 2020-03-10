@@ -1,6 +1,6 @@
 ---
 id: 6
-title: "Atlético Madrid vs Liverpool \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Atlético Madrid vs Liverpool &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-15T15:20:46+00:00
 author: admin
 layout: single
@@ -15,7 +15,7 @@ categories:
 
 
 Atlético Madrid vs Liverpool  
-UEFA Champions League Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium: Wanda Metropolitano Stadium 
 
 The head-to-head between Atlético Madrid and Liverpool in Europe is perfectly balanced with one win each and two draws (4 goals each). However, Atlético eliminated Liverpool in their only knockout tie, it was in the 2009/10 Europa League semi-finals, a tournament Atlético won, beating Fulham 2-1 in the final.

@@ -1,6 +1,6 @@
 ---
 id: 40
-title: "RB Leipzig vs Tottenham \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "RB Leipzig vs Tottenham &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:11:24+00:00
 author: admin
 layout: single
@@ -15,7 +15,7 @@ categories:
  
 
 RB Leipzig vs Tottenham  
-UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium : Red Bull Arena 
 
 This will be the first encounter between Tottenham and RB Leipzig. It’s also the first time the team from Leipzig is facing an English club in a competitive fixture whilst Spurs will be facing German opposition in the UCL round of 16 for the second consecutive season, after knocking out Borussia Dortmund 4-0 on aggregate in 2018/19.
