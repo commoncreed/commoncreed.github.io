@@ -1,19 +1,21 @@
 ---
 id: 22
-title: "Chelsea vs Bayern \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Chelsea vs Bayern &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:15:58+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="rh4YTlV73NQ" %}
+
+---
+
+
 
 Chelsea vs Bayern  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Stamford Bridge 
 
 Credits:  
@@ -22,7 +24,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:02.160,0:00:08.760
+```
+ 0:00:02.160,0:00:08.760
  [Music]
  0:00:06.230,0:00:11.580
  hello everyone great to be with you from
@@ -487,4 +490,6 @@ Credits:
  0:14:29.920,0:14:36.550
  player because he's got the ball
  0:14:32.300,0:14:36.550
- [Music]</pre>
+ [Music]
+```
+ 

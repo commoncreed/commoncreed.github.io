@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yet we all are same. 
   #Programmer4Life 
   #Gamer4Life 
-  👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️'
+  👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -62,7 +62,12 @@ plugins:
 author:
   name   : "Common Creed"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : >- 
+    Everyone is unique.
+    Yet we all are same. 
+    #Programmer4Life 
+    #Gamer4Life 
+    👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️"
   links:
     - label: "CommonCreed"
       icon: "fab fa-fw fa-twitter-square"

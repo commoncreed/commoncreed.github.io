@@ -1,19 +1,21 @@
 ---
 id: 16
-title: "Tottenham vs RB Leipzig \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Tottenham vs RB Leipzig &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:07:31+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="mosVmRIovd4" %}
+
+---
+
+ 
 
 Tottenham vs RB Leipzig  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Tottenham Hotspur Stadium 
 
 This will be the first encounter between Tottenham and RB Leipzig. It’s also the first time the team from Leipzig is facing an English club in a competitive fixture whilst Spurs will be facing German opposition in the UCL round of 16 for the second consecutive season, after knocking out Borussia Dortmund 4-0 on aggregate in 2018/19. 
@@ -32,7 +34,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:00.180,0:00:08.820
+```
+ 0:00:00.180,0:00:08.820
  [Music]
  0:00:06.109,0:00:11.730
  and hello wherever you're watching
@@ -563,4 +566,6 @@ Credits:
  0:16:42.149,0:16:46.910
  game that seemed right at the end as
  0:16:44.879,0:16:46.910
- well</pre>
+ well
+```
+ 

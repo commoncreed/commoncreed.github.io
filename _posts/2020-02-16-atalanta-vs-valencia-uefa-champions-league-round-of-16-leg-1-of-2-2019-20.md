@@ -1,19 +1,21 @@
 ---
 id: 14
-title: "Atalanta vs Valencia \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Atalanta vs Valencia &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:05:56+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="M4ke0jCslj8" %}
+
+---
+
+
 
 Atalanta vs Valencia  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : San Siro 
 
 This will be the first encounter between Atalanta and Valencia. It’s also the first time the team from Bergamo will face Spanish opposition in a competitive fixture. 
@@ -32,7 +34,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:00.970,0:00:04.130
+```
+ 0:00:00.970,0:00:04.130
  [Music]
  0:00:05.089,0:00:10.740
  and good evening on what is a perfect
@@ -581,4 +584,6 @@ Credits:
  0:19:22.330,0:19:30.149
  well first rate Gogebic off we can't
  0:19:25.630,0:19:30.149
- believe the goalkeeper save us brilliant</pre>
+ believe the goalkeeper save us brilliant
+```
+ 

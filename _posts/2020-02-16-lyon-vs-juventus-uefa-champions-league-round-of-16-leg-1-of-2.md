@@ -1,19 +1,21 @@
 ---
 id: 26
-title: "Lyon vs Juventus \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Lyon vs Juventus &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:19:47+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="g1xlaoBZd_g" %}
+
+---
+
+
 
 Lyon vs Juventus  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Parc Olympique Lyonnais 
 
 Credits:  
@@ -22,7 +24,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:01.460,0:00:04.630
+```
+ 0:00:01.460,0:00:04.630
  [Music]
  0:00:05.600,0:00:11.219
  and good evening on what is a perfect
@@ -485,4 +488,6 @@ Credits:
  0:15:17.959,0:15:23.230
  the deadlock well he's been so close
  0:15:19.820,0:15:23.230
- this game taxi</pre>
+ this game taxi
+```
+ 

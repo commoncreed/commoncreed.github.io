@@ -1,19 +1,21 @@
 ---
 id: 42
-title: "Valencia vs Atalanta \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "Valencia vs Atalanta &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:13:23+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="u1bbiL92YAw" %}
+
+---
+
+ 
 
 Valencia vs Atalanta  
-UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium : Mestalla 
 
 This will be the first encounter between Atalanta and Valencia. It’s also the first time the team from Bergamo will face Spanish opposition in a competitive fixture. 
@@ -30,7 +32,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:01.090,0:00:08.880
+```
+ 0:00:01.090,0:00:08.880
  [Music]
  0:00:06.290,0:00:11.280
  good evening to you mrs. Hall was a
@@ -537,4 +540,6 @@ Credits:
  0:17:42.220,0:17:47.190
  to keep us concentration to the maximum
  0:17:44.560,0:17:47.190
- and he did</pre>
+ and he did
+```
+ 

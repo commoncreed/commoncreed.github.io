@@ -1,19 +1,21 @@
 ---
 id: 29
-title: "Real Madrid vs Manchester City \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Real Madrid vs Manchester City &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:22:05+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="0lE6eGACk9s" %}
+
+---
+
+ 
 
 Real Madrid vs Manchester City  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Santiago Bernabéu 
 
 Credits:  
@@ -22,7 +24,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:01.400,0:00:09.120
+```
+ 0:00:01.400,0:00:09.120
  [Music]
  0:00:06.649,0:00:11.580
  hello this is Jarek ray and the
@@ -591,4 +594,6 @@ Credits:
  0:17:20.410,0:17:25.770
  Manchester says a a go to level matters
  0:17:23.530,0:17:25.770
- here</pre>
+ here
+```
+ 

@@ -1,26 +1,29 @@
 ---
 id: 48
-title: "Manchester City vs Real Madrid \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "Manchester City vs Real Madrid &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:18:56+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="YXpzq59kAyU" %}
+
+---
+
+ 
 
 Manchester City vs Real Madrid  
-UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium : City of Manchester Stadium 
 
 Credits:  
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:01.270,0:00:09.090
+```
+ 0:00:01.270,0:00:09.090
  [Music]
  0:00:06.379,0:00:11.490
  well that really should be a night of
@@ -499,4 +502,6 @@ Credits:
  0:15:22.040,0:15:26.740
  what's a chance they have now of baking
  0:15:24.619,0:15:26.740
- it</pre>
+ it
+```
+ 

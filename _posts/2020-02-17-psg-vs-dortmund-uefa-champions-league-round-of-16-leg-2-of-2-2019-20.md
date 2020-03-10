@@ -1,19 +1,21 @@
 ---
 id: 44
-title: "PSG vs Dortmund \\| UEFA Champions League \\| Round of 16 \\| Leg 2 of 2 \\| 2019/20"
+title: "PSG vs Dortmund &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20"
 date: 2020-02-17T14:14:54+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="ETW0uTJyJZg" %}
+
+---
+
+ 
 
 PSG vs Dortmund  
-UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 2 of 2 &#124; 2019/20  
 Stadium : Parc des Princes 
 
 The only previous encounter between Borussia Dortmund and Paris SG was in the 2010/11 Europa League group stages – both games ended in a draw (1-1 in Dortmund, 0-0 in Paris). 
@@ -30,7 +32,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:01.040,0:00:08.670
+```
+ 0:00:01.040,0:00:08.670
  [Music]
  0:00:05.870,0:00:11.030
  and welcome on what is a rather
@@ -491,4 +494,6 @@ Credits:
  0:16:01.360,0:16:07.050
  not sure he was ever going to score with
  0:16:03.010,0:16:07.050
- that bicycle kick overhead kick</pre>
+ that bicycle kick overhead kick
+```
+ 

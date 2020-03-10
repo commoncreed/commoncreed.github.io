@@ -1,19 +1,22 @@
 ---
 id: 11
-title: "Dortmund vs PSG \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
+title: "Dortmund vs PSG &#124; UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20"
 date: 2020-02-16T20:00:52+00:00
 author: admin
 layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="MxGJJiESYVk" %}
+
+---
+
+
+
 
 Dortmund vs PSG  
-UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
+UEFA Champions League &#124; Round of 16 &#124; Leg 1 of 2 &#124; 2019/20  
 Stadium : Westfalenstadion 
 
 The only previous encounter between Borussia Dortmund and Paris SG was in the 2010/11 Europa League group stages – both games ended in a draw (1-1 in Dortmund, 0-0 in Paris). 
@@ -30,7 +33,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:01.110,0:00:09.090
+```
+ 0:00:01.110,0:00:09.090
  [Music]
  0:00:06.259,0:00:11.190
  well this is a region that really loves
@@ -553,4 +557,6 @@ Credits:
  0:17:18.980,0:17:26.470
  play girl kick coming up the SG I gotta
  0:17:23.809,0:17:26.470
- switch things around</pre>
+ switch things around
+```
+ 
