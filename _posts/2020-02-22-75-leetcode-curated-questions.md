@@ -4,7 +4,6 @@ title: 75 LeetCode Curated Questions
 date: 2020-02-22T15:44:43+00:00
 author: admin
 layout: post
-comments: true
 categories:
   - Data Structures and Algorithms
 ---
@@ -114,10 +113,8 @@ categories:
 
   * [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   * [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
   * [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 We hope these questions add a spark to the programming skills upgrade journey you are on.
-
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}

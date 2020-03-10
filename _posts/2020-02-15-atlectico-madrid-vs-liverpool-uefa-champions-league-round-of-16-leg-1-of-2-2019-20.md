@@ -502,6 +502,3 @@ Credits:
  keeping from me an all black
  0:15:27.040,0:15:30.150
  [Music]</pre>
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}
