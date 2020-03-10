@@ -67,7 +67,7 @@ author:
     Yet we all are same. 
     #Programmer4Life 
     #Gamer4Life 
-    👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️"
+    👨‍💻🎮🙂🖖⛪🕌🕍🏯🏰⛩️🏙️🏘️
   links:
     - label: "CommonCreed"
       icon: "fab fa-fw fa-twitter-square"
@@ -110,7 +110,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
 comments:
   provider: "disqus"
   disqus:
