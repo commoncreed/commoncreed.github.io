@@ -7,10 +7,12 @@ layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="YyDeZSCoGZ0" %}
+
+---
+
+ 
 
 RB Leipzig vs Tottenham  
 UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
@@ -30,7 +32,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:01.180,0:00:09.059
+```
+ 0:00:01.180,0:00:09.059
  [Music]
  0:00:05.839,0:00:10.950
  and good evening on what is a perfect
@@ -605,4 +608,6 @@ Credits:
  0:19:25.080,0:19:30.260
  yeah defender just put him off a little
  0:19:26.970,0:19:30.260
- bit but his Worthen ethic</pre>
+ bit but his Worthen ethic
+```
+ 

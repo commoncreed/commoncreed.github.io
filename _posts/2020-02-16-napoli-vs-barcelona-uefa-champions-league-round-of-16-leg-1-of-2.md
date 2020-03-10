@@ -7,10 +7,12 @@ layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="X574K3JDjAE" %}
+
+---
+
+ 
 
 Napoli vs Barcelona  
 UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
@@ -22,7 +24,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:00.990,0:00:08.700
+```
+ 0:00:00.990,0:00:08.700
  [Music]
  0:00:06.170,0:00:10.410
  good evening to you I must tell you this
@@ -543,4 +546,6 @@ Credits:
  0:15:24.690,0:15:28.760
  all of a sudden one team ahead think
  0:15:32.440,0:15:36.240
- the block from Kostas mannerless</pre>
+ the block from Kostas mannerless
+```
+ 

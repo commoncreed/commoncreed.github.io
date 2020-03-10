@@ -7,10 +7,12 @@ layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="M4ke0jCslj8" %}
+
+---
+
+
 
 Atalanta vs Valencia  
 UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
@@ -32,7 +34,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:00.970,0:00:04.130
+```
+ 0:00:00.970,0:00:04.130
  [Music]
  0:00:05.089,0:00:10.740
  and good evening on what is a perfect
@@ -581,4 +584,6 @@ Credits:
  0:19:22.330,0:19:30.149
  well first rate Gogebic off we can't
  0:19:25.630,0:19:30.149
- believe the goalkeeper save us brilliant</pre>
+ believe the goalkeeper save us brilliant
+```
+ 

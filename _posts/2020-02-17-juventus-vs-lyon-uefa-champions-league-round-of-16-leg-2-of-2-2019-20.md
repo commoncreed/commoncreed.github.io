@@ -7,10 +7,12 @@ layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="bSKxGjW9u3w" %}
+
+---
+
+ 
 
 Juventus vs Lyon  
 UEFA Champions League | Round of 16 | Leg 2 of 2 | 2019/20  
@@ -20,7 +22,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:01.180,0:00:09.660
+```
+ 0:00:01.180,0:00:09.660
  [Music]
  0:00:05.990,0:00:12.389
  and the warm welcome on what is an ideal
@@ -505,4 +508,6 @@ Credits:
  0:17:29.650,0:17:34.800
  he was close there's a decent effort
  0:17:31.780,0:17:34.800
- they'll keep plugging away</pre>
+ they'll keep plugging away
+```
+ 

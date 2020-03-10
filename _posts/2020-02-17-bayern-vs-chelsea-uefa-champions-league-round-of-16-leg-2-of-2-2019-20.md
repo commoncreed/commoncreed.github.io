@@ -7,8 +7,9 @@ layout: single
 categories:
   - UEFA Champions League
 ---
+{% include youtubePlayer.html id="_dt3l1J_yRE" %}
 
-{% include youtubePlayer.html id=page._dt3l1J_yRE %}
+---
 
 Bayern vs Chelsea  
 UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
@@ -18,7 +19,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:01.160,0:00:09.000
+```
+ 0:00:01.160,0:00:09.000
  [Music]
  0:00:06.470,0:00:11.460
  hello and a warm welcome on what is a
@@ -553,4 +555,6 @@ Credits:
  0:16:25.640,0:16:28.150
  that is
  0:16:28.510,0:16:33.549
- [Music] </pre>
+ [Music] 
+```
+ 

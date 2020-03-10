@@ -3,14 +3,16 @@ id: 6
 title: "Atlético Madrid vs Liverpool \\| UEFA Champions League \\| Round of 16 \\| Leg 1 of 2 \\| 2019/20"
 date: 2020-02-15T15:20:46+00:00
 author: admin
-layout: post
+layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="nw3Ki00Vv7U" %}
+
+---
+
+
 
 Atlético Madrid vs Liverpool  
 UEFA Champions League Round of 16 | Leg 1 of 2 | 2019/20  
@@ -32,7 +34,8 @@ Credits:
 
 ## Game Script
 
-<pre class="wp-block-preformatted">0:00:00.960,0:00:08.040
+```
+ 0:00:00.960,0:00:08.040
  [Music]
  0:00:05.000,0:00:09.809
  hello from the Spanish capital we find
@@ -501,4 +504,6 @@ Credits:
  0:15:18.750,0:15:22.040
  keeping from me an all black
  0:15:27.040,0:15:30.150
- [Music]</pre>
+ [Music]
+```
+ 

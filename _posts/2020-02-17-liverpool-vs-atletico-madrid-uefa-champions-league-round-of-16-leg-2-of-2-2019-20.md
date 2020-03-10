@@ -7,10 +7,12 @@ layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="-woyXrDpTqE" %}
+
+---
+
+ 
 
 Liverpool vs Atlético Madrid  
 UEFA Champions League Round of 16 | Leg 2 of 2 | 2019/20  
@@ -32,7 +34,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:00.880,0:00:08.940
+```
+ 0:00:00.880,0:00:08.940
  [Music]
  0:00:06.259,0:00:10.530
  well the rain has been lashing down and
@@ -715,4 +718,6 @@ Credits:
  0:23:43.350,0:23:48.050
  what's a chance they have down of making
  0:23:45.930,0:23:48.050
- it</pre>
+ it
+```
+ 

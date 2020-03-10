@@ -7,10 +7,12 @@ layout: single
 categories:
   - UEFA Champions League
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{% include youtubePlayer.html id="0yd60HEnUzw" %}
+
+---
+
+ 
 
 Barcelona vs Napoli  
 UEFA Champions League | Round of 16 | Leg 1 of 2 | 2019/20  
@@ -20,7 +22,8 @@ Credits:
 <http://www.easports.com/fifa>  
 <https://www.google.com/search?q=uefa+champions+league>
 
-<pre class="wp-block-preformatted">0:00:00.670,0:00:08.580
+```
+ 0:00:00.670,0:00:08.580
  [Music]
  0:00:05.960,0:00:11.639
  hello wherever you happen to be welcome
@@ -433,4 +436,6 @@ Credits:
  0:14:22.070,0:14:27.969
  clock by a gang
  0:14:24.710,0:14:27.969
- [Applause]</pre>
+ [Applause]
+```
+ 
