@@ -110,6 +110,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "commoncreed-io"
 
 category_archive:
   type: liquid
