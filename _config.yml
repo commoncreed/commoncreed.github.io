@@ -111,6 +111,12 @@ defaults:
       layout: single
       author_profile: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-160301863-1"
+    anonymize_ip: false
+
 comments:
   provider: "disqus"
   disqus:
