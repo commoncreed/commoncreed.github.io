@@ -8,6 +8,8 @@ comments_id: 101
 categories:
   - Data Structures and Algorithms
   - Cracking The Coding Interview
+tags:
+  - Arrays and Strings
 ---
 
 Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?

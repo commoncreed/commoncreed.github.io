@@ -7,6 +7,8 @@ layout: single
 comments_id: 1
 categories:
   - Data Structures and Algorithms
+tags:
+  - Collections
 ---
 [LeetCode](http://leetcode.com) is a platform for people with absolutely any level of programming skills to up their game. Utilizing the power of this platform needs some getting used to. Just to make the process even easy for our readers, we have curated a perfect list of programming questions to start with. These questions skim through every topic and difficulty level.
 
