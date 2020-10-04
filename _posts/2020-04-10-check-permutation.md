@@ -60,11 +60,3 @@ public static boolean permutation(String s, String t) {
   return true; // letters array has no negative values, and therefore no positive values either
 }
 {% endhighlight %}
-
-If we can't use additional data structures, we can do the following: 
-
-1. Compare every character of the string to every other character of the string. This will take O( n2) time
-and 0 (1) space.
-2. If we are allowed to modify the input string, we could sort the string in O( n log( n» time and then
-linearly check the string for neighboring characters that are identical. Careful, though: many sorting
-algorithms take up extra space. 
