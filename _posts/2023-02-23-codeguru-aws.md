@@ -1,5 +1,5 @@
 ---
-id: 71
+id: 72
 title: "AWS CodeGuru"
 date: 2023-02-23T15:44:43+00:00
 author: admin
