@@ -1,7 +1,7 @@
 ---
 id: 72
 title: "AWS CodeGuru"
-date: 2023-02-23T15:44:43+00:00
+date: 2023-02-22T15:44:43+00:00
 author: admin
 layout: single
 comments_id: 1
@@ -11,7 +11,7 @@ tags:
   - Collections
 ---
 
-Amazon CodeGuru is a machine learning-powered developer tool that helps identify and troubleshoot code issues in real-time. It uses advanced algorithms to provide intelligent recommendations on how to optimize code performance and reduce runtime inefficiencies. Launched in 2020, it has quickly become a popular tool for developers across the world.
+[Amazon CodeGuru](https://aws.amazon.com/codeguru/) is a machine learning-powered developer tool that helps identify and troubleshoot code issues in real-time. It uses advanced algorithms to provide intelligent recommendations on how to optimize code performance and reduce runtime inefficiencies. Launched in 2020, it has quickly become a popular tool for developers across the world.
 
 CodeGuru consists of two main components: CodeGuru Reviewer and CodeGuru Profiler.
 
