@@ -1,5 +1,5 @@
 ---
-id: 73
+id: 72
 title: "Github Copilot"
 date: 2023-02-20T15:44:43+00:00
 author: admin
