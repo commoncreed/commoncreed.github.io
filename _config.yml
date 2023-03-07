@@ -60,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Common Creed"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : >- 
+  name: "Common Creed"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: >-
     Everyone is unique.
     Yet we all are same. 
     #Programmer4Life 
